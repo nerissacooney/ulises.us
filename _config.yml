@@ -41,6 +41,7 @@ exclude:
     - gulpfile.js
     - node_modules
     - README.md
+    - assets/js
 encoding: "utf-8"
 markdown_ext: "md"
 

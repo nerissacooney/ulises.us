@@ -2,5 +2,10 @@
 layout: default
 ---
 
-    <div class="column" id="left">{{ content }}</div>
+    <div class="column" id="left">    
+
+        {% include header.html %}
+        {{ content }}
+
+    </div>
     <div class="column" id="right">{{ content }}</div>
