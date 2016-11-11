@@ -13,8 +13,21 @@
     src: url('../font/TimesNRSevenMT-Regular.woff') format('woff');
 }
 
+// Import Neat partials.
+@import "neat/neat";
+
 // Import Sassline partials.
-@import
-    "sassline-variables",
-    "sassline-base"
-;
+@import "sassline/sassline-variables";
+@import "sassline/sassline-base/modular-scale";
+@import "sassline/sassline-base/mixins";
+@import "sassline/sassline-base/typography";
+@import "sassline/sassline-base/layouts";
+
+@import "sassline/modules/globals";
+@import "sassline/modules/nav";
+@import "sassline/modules/header";
+@import "sassline/modules/footer";
+@import "sassline/modules/show-grid";
+
+// Import custom layouts
+@import "layouts";
