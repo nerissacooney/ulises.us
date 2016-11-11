@@ -1,5 +1,21 @@
 // * * * * * Home Page Elements * * * * *
 
+header {
+
+    & .site-title h1 {
+        font-family: Lars, "Helvetica Neue", sans-serif;
+        font-size: 3rem;
+        font-weight: 300;
+        text-align: center;
+        margin-top: 1rem;
+    }
+    
+    & span{
+        font-family: "Times New Roman Seven";
+        font-weight: 400;
+    }
+}
+
 .row-wrapper {
     @include row();
 
@@ -10,4 +26,41 @@
 
 .column {
     @include span-columns(6);
+    position: fixed;
+    top: 3.5rem;
+    left: 0;
+    height: 100vh;
+    overflow-y: scroll;
+
+    @include media-query($on-laptop){
+        @include span-columns(12);
+        @include shift(0);
+        float: left;
+        position: inherit;
+        height: auto;
+    }
+}
+
+.column#right {
+    @include shift(6);
+    @include media-query($on-laptop){
+        @include shift(0);
+    }
+
+    @include omega;
+}
+
+footer {
+    position: fixed;
+    width: 100vw;
+    bottom: 0;
+    background-color: $backgroundColour;
+
+    & ul { 
+        list-style: none;
+        text-align: center;
+        padding: 0;
+
+        & li { display: inline-block; }
+    }
 }
