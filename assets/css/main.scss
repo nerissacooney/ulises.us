@@ -1,0 +1,20 @@
+---
+---
+
+@font-face {
+    font-family: Lars;
+        src: 
+            url('../font/Lars-Regular.woff2') format('woff2'),
+            url('../font/Lars-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: "Times New Roman Seven";
+    src: url('../font/TimesNRSevenMT-Regular.woff') format('woff');
+}
+
+// Import Sassline partials.
+@import
+    "sassline-variables",
+    "sassline-base"
+;

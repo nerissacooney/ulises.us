@@ -1,0 +1,7 @@
+// Import Sassline base SCSS files in order so variables are read correctly.
+
+@import "../node_modules/sassline/assets/sass/sassline-base/reset";
+@import "../node_modules/sassline/assets/sass/sassline-base/modular-scale";
+@import "../node_modules/sassline/assets/sass/sassline-base/mixins";
+@import "../node_modules/sassline/assets/sass/sassline-base/typography";
+@import "../node_modules/sassline/assets/sass/sassline-base/layouts";
