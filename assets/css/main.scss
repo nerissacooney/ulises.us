@@ -30,9 +30,10 @@
 @import "sassline/modules/show-grid";
 
 // Import Perfect Scrollbar
-@import "perfect-scrollbar/variables";
-@import "perfect-scrollbar/mixins";
-@import "perfect-scrollbar/themes";
+
+@import 'perfect-scrollbar/variables';
+@import 'perfect-scrollbar/mixins';
+@import 'perfect-scrollbar/themes';
 
 // Import custom layouts
 @import "layouts";

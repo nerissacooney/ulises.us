@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Ulises is a bookshop and curatorial platform dedicated to artists' books and independent art publications. Performing the model of a quarterly periodical, each curatorial season of Ulises invites contributors to present publications, workshops, lectures, artworks or collaborations in response to a theme.
+Ulises a bookshop and curatorial platform dedicated to artists' books and independent art publications. Performing the model of a quarterly periodical, each curatorial season of Ulises invites contributors to present publications, workshops, lectures, artworks or collaborations in response to a theme.
 
 ## Ulises No.01: Active Voice
 

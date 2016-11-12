@@ -2,10 +2,30 @@
 layout: default
 ---
 
-    <div class="column" id="left">    
+    {% assign postsLeft = site.posts | where: 'categories', 'left' %}
+    {% assign postsRight = site.posts | where: 'categories', 'right' %}
 
-        {% include header.html %}
-        {{ content }}
+
+    <div class="column column--left" id="left">    
+
+        {% include header-left.html %}
+
+        {% for item in postsLeft reversed %}
+            {{ item }}
+        {% endfor %}
+
+        {% include footer.html %}
 
     </div>
-    <div class="column" id="right">{{ content }}</div>
+
+    <div class="column column--right" id="right">
+
+        {% include header-right.html %}
+
+        {% for item in postsRight %}
+            {{ item }}
+        {% endfor %}
+
+        {% include footer.html %}
+    
+    </div>

@@ -1,6 +1,10 @@
 body {
 
     background-color: $bodyColour;
+
+    @include media-query($on-laptop){
+        background-color: $backgroundColour;
+    }
 }
 
 // * * * * * Home Page Elements * * * * *
@@ -23,6 +27,49 @@ header {
         font-weight: 300;
         font-style: italic;
     }
+
+    & ul { 
+        list-style: none;
+
+        @include media-query($on-laptop){
+            display: none;
+        }
+    }
+
+    div#left & ul {
+        display: none;
+        @include media-query($on-laptop){
+            display: block;
+            float: left;
+            & li {
+                text-align: left;
+            }
+        }
+    }
+
+    & ul:first-child{
+        float: left;
+
+        & li {
+            text-align: left;
+        }
+    }
+
+    & ul:nth-child(2){
+        float: right;
+
+        & li {
+            text-align: right;
+        }
+    }
+
+    & li {
+        font-family: Lars, "Helvetica Neue", sans-serif;
+        font-size: 1.5rem;
+        font-weight: 300;
+        text-align: left;
+        margin-top: 1rem;   
+    }
 }
 
 .row-wrapper {
@@ -34,14 +81,14 @@ header {
 }
 
 .column {
+
     @include span-columns(6);
+    @include shift(0);
     background-color: $backgroundColour;
-    position: fixed;
-    top: 0;
-    left: 0;
+    position: relative;
     height: 100vh;
     overflow-y: scroll;
-    z-index: 0;
+    overflow-x: hidden;
 
     @include media-query($on-laptop){
         @include span-columns(12);
@@ -52,62 +99,45 @@ header {
     }
 }
 
-.column#left {
-    direction: rtl;
-    text-align: left;
+.column#left .ps-scrollbar-y-rail {
+    position: fixed;
+    left: 0.5rem;
+}
+
+.column#right .ps-scrollbar-y-rail {
+    right: 0.5rem;
 }
 
 .column#right {
-    @include shift(6);
+    // @include shift(6);
+    @include omega;
+
     @include media-query($on-laptop){
         @include shift(0);
     }
+}
 
-    @include omega;
+article p span {
+    text-decoration: underline;
 }
 
 footer {
-    position: fixed;
-    width: 100vw;
-    bottom: 0;
+
     background-color: $backgroundColour;
 
-    & ul { 
-        list-style: none;
-        text-align: center;
-        padding: 0;
+    div#right & {
 
-        & li { display: inline-block; }
+        display: none;
+        @include media-query($on-laptop){
+                display: block;
+        }
+    }
+
+    div#left & {
+
+        display: block;
+        @include media-query($on-laptop){
+                display: none;
+        }
     }
 }
-
-
-// * * * * * Perfect Scroll Bar * * * * *
-
-.ps-ulises {
-  @include ps-container(map-merge($ps-theme-default, (
-    border-radius: 0,
-    rail-default-opacity: 0,
-    bar-bg: #f00
-  )));
-}
-
-
-  // border-radius: $ps-border-radius,
-  // rail-default-opacity: $ps-rail-default-opacity,
-  // rail-container-hover-opacity: $ps-rail-container-hover-opacity,
-  // rail-hover-opacity: $ps-rail-hover-opacity,
-  // bar-bg: $ps-bar-bg,
-  // bar-container-hover-bg: $ps-bar-container-hover-bg,
-  // bar-hover-bg: $ps-bar-hover-bg,
-  // rail-hover-bg: $ps-rail-hover-bg,
-  // scrollbar-x-rail-bottom: $ps-scrollbar-x-rail-bottom,
-  // scrollbar-x-rail-height: $ps-scrollbar-x-rail-height,
-  // scrollbar-x-bottom: $ps-scrollbar-x-bottom,
-  // scrollbar-x-height: $ps-scrollbar-x-height,
-  // scrollbar-x-hover-height: $ps-scrollbar-x-hover-height,
-  // scrollbar-y-rail-right: $ps-scrollbar-y-rail-right,
-  // scrollbar-y-rail-width: $ps-scrollbar-y-rail-width,
-  // scrollbar-y-right: $ps-scrollbar-y-right,
-  // scrollbar-y-width: $ps-scrollbar-y-width,
-  // scrollbar-y-hover-width: $ps-scrollbar-y-hover-width,

@@ -10,8 +10,8 @@ var src = './assets',
     dest = './_site/assets';
 
 // Task for building blog when something changed:
-gulp.task('jekyll', function(){
-    cp('exec jekyll build --incremental --watch',
+gulp.task('jekyll',['js'], function(){
+    return cp('bundler exec jekyll build --watch --future',
         function(err,stdout,stderr){
             console.log(err);
             console.log(stdout);
@@ -20,27 +20,25 @@ gulp.task('jekyll', function(){
 });
 
 // Task for serving blog with Browsersync
-gulp.task('serve', function () {
+gulp.task('serve', ['js','jekyll'], function () {
     bs.init({server: {baseDir: '_site/'}, port: 4000});
     // Reloads page when some of the already built files changed:
-    // gulp.watch('_site/**/*.*').on('change', bs.reload);
+    gulp.watch('_site/**/*.*').on('change', bs.reload);
 });
 
 gulp.task('js', function(){
-
-    browserify({
-        entries: src + '/js/main.js',
+    return browserify({
+        entries: './components/main.js',
         debug: true
-    })
-        .bundle()
+    }).bundle()
         .pipe(source('main.min.js'))
         .pipe(buffer())
-        .pipe(uglify())
-        .pipe(gulp.dest(dest + '/js'));
+        // .pipe(uglify())
+        .pipe(gulp.dest(src + '/js'));
 });
 
 gulp.task('watch',function(){
-    gulp.watch(src + '/js/*.js', ['js']);
+    gulp.watch('./components/*.js', ['js']);
 });
 
-gulp.task('default', [ 'js','watch','jekyll', 'serve']);
+gulp.task('default', ['jekyll','js','watch','serve']);
