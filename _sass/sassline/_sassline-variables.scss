@@ -97,8 +97,8 @@ $on-laptop:        800px !default;
 
 $headingColour: #DFDFDF !default;
 $bodyColour: #CFCFCF !default;
-$linkColour: #0E58F5 !default;
-$hoverColour: #0B348B !default;
+$linkColour: $bodyColour !default;
+$hoverColour: darken($bodyColour,25%) !default;
 $captionColour: #BDC8CC !default;
 $white: #FFFFFF !default;
 

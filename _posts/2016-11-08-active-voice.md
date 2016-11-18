@@ -12,11 +12,11 @@ November 12, 2016 to January 22, 2017
 #### CONTENTS
 
 ##### Hannah Black
-Virtual Reading and Conversation <span>Nov 20, 2016</span>
+Virtual Reading and Conversation <span>December 2016</span>
 
 
 ##### Steffani Jemison
-Artist Talk and Conversation <span>Dec 2, 2016</span>
+Artist Talk and Conversation <span>December 2, 2016</span>
 
 
 ##### Mark Beasley

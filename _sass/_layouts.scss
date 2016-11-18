@@ -34,6 +34,21 @@ header {
         @include media-query($on-laptop){
             display: none;
         }
+
+        & li a:link {
+            color: $bodyColour;
+            text-shadow: none;
+            background-image: none;
+            text-decoration: unset;
+        }
+
+        // & li a:hover, & li a:active, & li a:focus {
+        //     color: $hoverColour;
+        //     text-shadow: none;
+        //     background-image: none;
+        //     text-decoration: unset;
+        // }
+
     }
 
     div#left & ul {
@@ -119,6 +134,10 @@ header {
 
 article p span {
     text-decoration: underline;
+}
+
+#left article p span {
+    font-size: 1.5rem;
 }
 
 footer {
