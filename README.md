@@ -10,4 +10,3 @@ Jekyll Theme for Ulises Books / Philadelphia. PA
 - [sassline](https://sassline.com/)
 - [neat](http://neat.bourbon.io/)
 
-made a change
