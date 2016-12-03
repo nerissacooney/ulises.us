@@ -1,6 +1,6 @@
 ### ULISES US
 
-Jekyll Theme for Ulises Books / Philadelphia. PA
+Jekyll Theme for Ulises Books / Phila, PA
 
 #### Resources
 
