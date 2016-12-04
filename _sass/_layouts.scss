@@ -29,7 +29,6 @@ header {
     & span{
         font-family: "Times New Roman Seven";
         font-weight: 300;
-        font-style: italic;
     }
 
     & ul { 
@@ -144,7 +143,7 @@ article p span {
     font-size: 1.5rem;
 }
 
-footer {
+#about {
 
     background-color: $backgroundColour;
 

@@ -10,11 +10,11 @@ layout: default
 
         {% include header-left.html %}
 
+
+
         {% for item in postsLeft %}
             {{ item }}
         {% endfor %}
-
-        {% include footer.html %}
 
     </div>
 
@@ -22,10 +22,12 @@ layout: default
 
         {% include header-right.html %}
 
+        {% include about.html %}
+
         {% for item in postsRight %}
             {{ item }}
         {% endfor %}
 
-        {% include footer.html %}
-    
+        {% include about.html %}
+
     </div>

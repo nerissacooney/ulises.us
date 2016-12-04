@@ -7,11 +7,10 @@
     @include fontsize(eta, all);
 
     color: $captionColour;
-    font-family: unquote(map-get($headingtype, font-family));
+    font-family: unquote(map-get($bodytype, font-family));
     font-style: normal;
     font-weight: map-get($headingtype, regular);
     padding: 1rem 0;
     margin: 0;
-    text-align: center;
   }
 }
