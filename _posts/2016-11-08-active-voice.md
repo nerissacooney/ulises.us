@@ -1,7 +1,7 @@
 ---
 date: 2016-11-12T00:00:00.000Z
 layout: post
-title: 'NO.01: Active Voice'
+title: 'No.01: Active Voice'
 categories: right quarterly
 published: true
 ---
