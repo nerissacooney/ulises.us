@@ -19,9 +19,7 @@ header {
     & a:hover { color: $hoverColour; }
 
     & a.site-title h1 {
-        font-family: Lars, "Helvetica Neue", sans-serif;
-        font-size: 3rem;
-        font-weight: 300;
+        font-size: 56.6px;
         text-align: center;
         margin-top: 1rem;
     }
@@ -45,13 +43,9 @@ header {
             text-decoration: unset;
         }
 
-        // & li a:hover, & li a:active, & li a:focus {
-        //     color: $hoverColour;
-        //     text-shadow: none;
-        //     background-image: none;
-        //     text-decoration: unset;
-        // }
-
+        & li {
+            text-align: center;
+        }
     }
 
     div#left & ul {
@@ -67,18 +61,10 @@ header {
 
     & ul:first-child{
         float: left;
-
-        & li {
-            text-align: left;
-        }
     }
 
     & ul:nth-child(2){
         float: right;
-
-        & li {
-            text-align: right;
-        }
     }
 
     & li {

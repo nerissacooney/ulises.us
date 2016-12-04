@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HELLO, OPENING PARTY"
+title:  Hello, Opening Party
 date:   2016-11-12
 categories: left
 ---

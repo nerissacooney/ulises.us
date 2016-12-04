@@ -63,7 +63,7 @@ a {
     font-family: unquote(map-get($headingtype, font-family));
     font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
     font-style: normal;
-    font-weight: map-get($headingtype, bold);
+    font-weight: map-get($headingtype, regular);
   }
 
   // Heading level 1.

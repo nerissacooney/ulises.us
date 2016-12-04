@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "VIRTUAL READING AND CONVERSATION"
+title:  Virtual Reading and Conversation
 date:   2016-11-19
 categories: left
 ---

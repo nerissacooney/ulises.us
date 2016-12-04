@@ -1,7 +1,7 @@
 ---
 date: 2016-11-12T00:00:00.000Z
 layout: post
-title: 'NO.01: ACTIVE VOICE'
+title: 'NO.01: Active Voice'
 categories: right quarterly
 published: true
 ---
@@ -10,7 +10,7 @@ November 12, 2016 to January 22, 2017
 
 *Active Voice* considers the voice in relation to listening, language, and political agency through a series of programs, artworks, readings, events, and curated publications from contributors Mark Beasley, Hannah Black, and Steffani Jemison. *Active Voice* seeks to address the performative and embodied potential of the voice and it's ability to reify and limit political and social realities.
 
-## CONTENTS
+## Contents
 
 December 2, 2016​ 
 
