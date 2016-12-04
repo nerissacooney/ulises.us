@@ -11,25 +11,27 @@ November 12, 2016 to January 22, 2017
 
 #### CONTENTS
 
-##### Hannah Black
-Virtual Reading and Conversation <span>December 2016</span>
+December 2, 2016​ 
+6–7:30PM
+Steffani Jemison​, 
+Presentation ​
+and Conversation​ with David Ha
+rtt
 
+Steffani ​Jemison ​
+presents her 2014 two-channel sound piece, Same Time, a reprisal of a speech delivered in 1970 by Black Panther Party founder Huey P. Newton that has been reinterpreted by Brooklyn-based R&B group Sidetrack Boyz as a vocal improvisation. 
 
-##### Steffani Jemison
-Artist Talk and Conversation <span>December 2, 2016</span>
+December​ ​
+18, 2016
+4PM​
+Hannah Black​,​
+​ ​
+Reading and Conversation
 
+Hannah Black presents a selection of recent video works – including Intensive Care/Hot New Track, Fall of Communism, and My Bodies – that consider pop vocals as a space to explore violence, power, and pluralism.
 
-##### Mark Beasley
-Reading Room <span>January 2017</span>
+January 2017
+Mark Beasley​: 
+Reading Room​
 
-
-
-#### CONTRIBUTORS
-
-HANNAH BLACK presents a selection of recent video works – including *Intensive Care/Hot New Track, Fall of Communism, and My Bodies* – that consider pop vocals as a space to explore violence, power, and pluralism.
-
-
-STEFFANI JEMISON presents her 2014 two-channel sound piece, *Same Time*, a reprisal of a speech delivered in 1970 by Black Panther Party founder Huey P. Newton that has been reinterpreted by Brooklyn-based R&B group Sidetrack Boyz as a vocal improvisation. 
-
-
-MARK BEASLEY presents *Re-Voice*, a curated selection of books and records on the theme of voice.
+Mark Beasley present, Re-Voice, a curated selection of books and records on the theme of voice. In January we we host a series of discussions on excerpts ​from Mark's list. Pdfs of excerpts will be made available online in mid December.
