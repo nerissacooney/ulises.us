@@ -42,6 +42,7 @@ exclude:
     - node_modules
     - README.md
     - components
+
 encoding: "utf-8"
 markdown_ext: "md"
 
@@ -53,3 +54,38 @@ kramdown:
 sass:
   sass_dir: _sass
   style: expanded
+
+prose:
+  rooturl: '_posts'
+  media: 'assets/img'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "categories"
+        field:
+          element: "select"
+          label: "column"
+          placeholder: "choose column"
+          options:
+            - name: "left"
+              value: "left"
+            - name: "right"
+              value: "right"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "tags"
+          placeholder: "choose or add tags"
+          alterable: true
+      - name: "date"
+        field:
+          element: "hidden"
+          value: CURRENT_DATETIME
