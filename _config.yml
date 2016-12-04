@@ -89,3 +89,8 @@ prose:
         field:
           element: "hidden"
           value: CURRENT_DATETIME
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "published"
+          value: false
