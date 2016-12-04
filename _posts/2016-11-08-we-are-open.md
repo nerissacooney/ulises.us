@@ -5,6 +5,6 @@ date:   2016-11-12
 categories: left
 ---
 
-<span>November 12, 2016, 6–9pm</span>
+November 12, 2016, 6–9pm
 
 ![peace](assets/img/peace_small.png "peace sign")

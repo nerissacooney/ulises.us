@@ -22,12 +22,12 @@ header {
         font-family: Lars, "Helvetica Neue", sans-serif;
         font-size: 3rem;
         font-weight: 300;
-        text-align: left;
+        text-align: center;
         margin-top: 1rem;
     }
     
     & span{
-        font-family: "Times New Roman Seven";
+        font-family: "Times New Roman Seven", Times, serif;
         font-weight: 300;
     }
 
@@ -82,11 +82,13 @@ header {
     }
 
     & li {
-        font-family: Lars, "Helvetica Neue", sans-serif;
+        font-family: "Times New Roman Seven", Times, serif;
         font-size: 1.5rem;
         font-weight: 300;
         text-align: left;
-        margin-top: 1rem;   
+        margin-top: 1rem;
+
+        & span { font-family:  Lars, "Helvetica Neue", sans-serif; }
     }
 }
 
@@ -133,6 +135,7 @@ header {
     @include media-query($on-laptop){
         @include shift(0);
     }
+    h2 { text-align: center; }
 }
 
 article p span {
