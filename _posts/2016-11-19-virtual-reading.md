@@ -9,4 +9,4 @@ published: true
 
 December 18, 2016
 
-Hannah Black presents a selection of recent video works – including *Intensive Care/Hot New Track, Fall of Communism, and My Bodies* – that consider pop vocals as a space to explore violence, power, and pluralism.
+Hannah Black presents a selection of recent video works – including *Intensive Care/Hot New Track*, *Fall of Communism*, and *My Bodies* – that consider pop vocals as a space to explore violence, power, and pluralism.
