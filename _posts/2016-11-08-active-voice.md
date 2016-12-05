@@ -33,7 +33,6 @@ Reading and Conversation
 Hannah Black presents a selection of recent video works – including Intensive Care/Hot New Track, Fall of Communism, and My Bodies – that consider pop vocals as a space to explore violence, power, and pluralism.
 
 January 2017
-Mark Beasley​: 
-Reading Room​
+Mark Beasley​: Reading Room​
 
 Mark Beasley present, Re-Voice, a curated selection of books and records on the theme of voice. In January we we host a series of discussions on excerpts ​from Mark's list. Pdfs of excerpts will be made available online in mid December.

@@ -9,13 +9,29 @@ body {
 
 .typeset p {
     text-indent: 5rem;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+    -o-hyphens: auto;
+    hyphens: auto;
+}
+
+.typeset p img {
+    @include media-query($on-laptop){
+        float: left;
+    }
 }
 
 // * * * * * Home Page Elements * * * * *
 
 header {
 
-    & a { color: $linkColour; }
+    height: 7rem;
+
+    @include media-query($on-laptop){
+        height: auto;
+    }
+
+    & a { color: $linkColour;}
     & a:hover { color: $hoverColour; }
 
     & a.site-title h1 {
@@ -24,7 +40,7 @@ header {
         margin-top: 1rem;
     }
     
-    & span{
+    & a span{
         font-family: "Times New Roman Seven", Times, serif;
         font-weight: 300;
     }
@@ -48,22 +64,11 @@ header {
         }
     }
 
-    div#left & ul {
-        display: none;
-        @include media-query($on-laptop){
-            display: block;
-            float: left;
-            & li {
-                text-align: left;
-            }
-        }
-    }
-
     & ul:first-child{
         float: left;
     }
 
-    & ul:nth-child(2){
+    & ul:last-child{
         float: right;
     }
 
@@ -71,11 +76,31 @@ header {
         font-family: "Times New Roman Seven", Times, serif;
         font-size: 1.5rem;
         font-weight: 300;
-        text-align: left;
         margin-top: 1rem;
-
-        & span { font-family:  Lars, "Helvetica Neue", sans-serif; }
+        text-align: center;
     }
+
+    & span { font-family:  Lars, "Helvetica Neue", sans-serif; }
+}
+
+#left header ul {
+    display: none;
+    text-align: center;
+    padding-left: 0;
+    width: 100vw;
+
+    & li {
+        margin-left: 0;
+    }
+
+    @include media-query($on-laptop){
+        display: block;
+    }
+}
+
+p.about {
+    padding-top: 1.5rem;
+
 }
 
 .row-wrapper {
@@ -99,7 +124,6 @@ header {
     @include media-query($on-laptop){
         @include span-columns(12);
         @include shift(0);
-        float: left;
         position: inherit;
         height: auto;
     }
@@ -115,7 +139,6 @@ header {
 }
 
 .column#right {
-    // @include shift(6);
     @include omega;
 
     @include media-query($on-laptop){
@@ -132,24 +155,20 @@ article p span {
     font-size: 1.5rem;
 }
 
-#about {
+.about { background-color: $backgroundColour; }
 
-    background-color: $backgroundColour;
-
-    div#right & {
-
-        display: none;
-        @include media-query($on-laptop){
-                display: block;
-        }
+#right > p.about {
+    display: block;
+    @include media-query($on-laptop){
+            display: none;
     }
+}
 
-    div#left & {
+#right > p.about ~ p.about{
 
-        display: block;
-        @include media-query($on-laptop){
-                display: none;
-        }
+    display: none;
+    @include media-query($on-laptop){
+            display: block;
     }
 }
 

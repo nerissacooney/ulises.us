@@ -1,0 +1,19 @@
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+
+    <h2 class="post-title" itemprop="name headline">{{ post.title | escape }}</h2>
+
+    <!-- todo: add post link here when single post view designed  -->
+
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {% if post.summary %}
+        {{ post.summary }}
+    {% else %}
+        {{ post.content}}
+    {% endif %}
+  </div>
+
+</article>
