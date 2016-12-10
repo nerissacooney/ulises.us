@@ -4,5 +4,7 @@ layout: post
 published: false
 title: ' Merry Christmas '
 categories: left
+tags:
+  - sticky
 ---
 Ho ho ho. 
