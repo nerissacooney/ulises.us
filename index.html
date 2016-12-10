@@ -31,8 +31,6 @@ layout: default
 
         {% include about.html %}
 
-        {% include header-left.html %}
-
         {% for post in postsRight %}
             {% if post.tags contains 'sticky' %}    
                 {% include post-single.html %}            
