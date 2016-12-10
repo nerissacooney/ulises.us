@@ -5,6 +5,7 @@ published: false
 categories: left
 tags:
   - sticky
+title: post template
 ---
 ## a template for what a post should look like
 
