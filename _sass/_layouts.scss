@@ -98,9 +98,9 @@ header {
     }
 }
 
-p.about {
+.about p {
+    text-indent: 5rem;
     padding-top: 1.5rem;
-
 }
 
 .row-wrapper {
@@ -121,11 +121,25 @@ p.about {
     overflow-y: scroll;
     overflow-x: hidden;
 
+    & .about .big { display: block; }
+    & .about .small { display: none; }
+
+    h2 { text-align: center; }
+
     @include media-query($on-laptop){
         @include span-columns(12);
         @include shift(0);
         position: inherit;
         height: auto;
+
+        & .about .big { display: none; }
+        & .about .small { display: block; }
+
+        & .about p { 
+            padding-top: 0; 
+            padding-bottom: 2rem; 
+        }
+
     }
 }
 
@@ -144,7 +158,6 @@ p.about {
     @include media-query($on-laptop){
         @include shift(0);
     }
-    h2 { text-align: center; }
 }
 
 article p span {
@@ -157,14 +170,14 @@ article p span {
 
 .about { background-color: $backgroundColour; }
 
-#right > p.about {
+#right div.about > div {
     display: block;
     @include media-query($on-laptop){
             display: none;
     }
 }
 
-#right > p.about ~ p.about{
+#right div.about ~ div {
 
     display: none;
     @include media-query($on-laptop){
