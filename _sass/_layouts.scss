@@ -16,9 +16,7 @@ body {
 }
 
 .typeset p img {
-    @include media-query($on-laptop){
-        float: left;
-    }
+    display: block;
 }
 
 // * * * * * Home Page Elements * * * * *
