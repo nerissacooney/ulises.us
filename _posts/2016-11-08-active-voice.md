@@ -15,7 +15,7 @@ November 12, 2016 through January 22, 2017
 December 2, 2016, 6–7:30PM
 Steffani Jemison, Presentation and Conversation with David Hartt
 
-Steffani Jemison presents her 2014 two-channel sound piece, Same Time, a reprisal of a speech delivered in 1970 by Black Panther Party founder Huey P. Newton that has been reinterpreted by Brooklyn-based R&B group Sidetrack Boyz as a vocal improvisation. 
+Steffani Jemison presents her 2014 two-channel sound piece, _Same Time_, a reprisal of a speech delivered in 1970 by Black Panther Party founder Huey P. Newton that has been reinterpreted by Brooklyn-based R&B group Sidetrack Boyz as a vocal improvisation. 
 
 
 
