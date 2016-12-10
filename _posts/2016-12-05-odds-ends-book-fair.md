@@ -1,7 +1,8 @@
 ---
 title: 'Odds & Ends Book Fair'
-date: '2016-12-05 19:50 -0500'
+date: 2016-12-05
 layout: post
+categories: left
 published: false
 ---
 
