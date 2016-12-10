@@ -3,7 +3,7 @@ title: 'Odds & Ends Book Fair'
 date: 2016-12-05
 layout: post
 categories: left
-published: false
+published: true
 ---
 
 December 9, 2016, 11:30AM–4:30PM
