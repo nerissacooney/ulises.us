@@ -121,8 +121,8 @@ header {
     overflow-y: scroll;
     overflow-x: hidden;
 
-    & .about .big { display: block; }
-    & .about .small { display: none; }
+    & .about hr.big { display: block; }
+    & .about hr.small { display: none; }
 
     h2 { text-align: center; }
 
@@ -132,8 +132,8 @@ header {
         position: inherit;
         height: auto;
 
-        & .about .big { display: none; }
-        & .about .small { display: block; }
+        & .about hr.big { display: none; }
+        & .about hr.small { display: block; }
 
         & .about p { 
             padding-top: 0; 
@@ -168,7 +168,10 @@ article p span {
     font-size: 1.5rem;
 }
 
-.about { background-color: $backgroundColour; }
+.about { 
+    background-color: $backgroundColour; 
+    clear: both;
+}
 
 #right div.about > div {
     display: block;
