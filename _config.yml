@@ -65,7 +65,7 @@ prose:
     - /_includes
   metadata:
     _posts:
-      - name: "title
+      - name: "title"
         field:
           element: "text"
           placeholder: "enter post title"
