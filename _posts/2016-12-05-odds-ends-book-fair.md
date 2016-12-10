@@ -7,6 +7,7 @@ published: false
 ---
 
 December 9, 2016, 11:30AM–4:30PM
-![odds and ends bookfair logo](assets/img/odds_ends_2016_1600x1600_0 (1).jpg)
 
-Ulises is heading up New Haven for the day on Friday. We'll be participating in the Odds & Ends  Art Book Fair hosted by Yale University Art Gallery.
+![odds and ends bookfair logo](assets/img/odds_ends_2016_1600x1600.jpg)
+
+Ulises is heading up New Haven for the day on Friday. We'll be participating in the Odds & Ends Art Book Fair hosted by Yale University Art Gallery.
