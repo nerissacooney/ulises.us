@@ -21,7 +21,7 @@ body {
 
 // * * * * * Home Page Elements * * * * *
 
-header {
+header.global-header {
 
     height: 7rem;
 
@@ -187,5 +187,10 @@ article p span {
 }
 
 h2.post-title {
-    text-transform: uppercase;
+    text-transform: capitalize;
+}
+
+div.post-content p:first-child {
+    text-indent: 0;
+    text-align: center;
 }
