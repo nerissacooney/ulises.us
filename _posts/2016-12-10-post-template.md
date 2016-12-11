@@ -7,7 +7,9 @@ tags:
   - sticky
 title: post template
 ---
-**a template for what a post can look like**
+**note that the first line of a post will appear center-aligned because the post expects it to be a date!**
+
+*a template for what a post can look like*
 
 If you'd like to know more about [Markdown](http://daringfireball.net/projects/markdown/), here's the original description of the project. An interesting take on single-source publishing and a brand of functional minimalism.
 
