@@ -1,3 +1,10 @@
+@mixin transdefaults($params) {
+    transition: $params;
+    -webkit-transition: $params;
+    -moz-transition: $params;
+    -o-transition: $params;
+}
+
 body {
 
     background-color: $bodyColour;
@@ -33,6 +40,7 @@ header.global-header {
     & a:hover { color: $hoverColour; }
 
     & a.site-title h1 {
+
         font-size: 56.6px;
         text-align: center;
         margin-top: 1rem;
@@ -183,12 +191,34 @@ article p span {
     }
 }
 
-#right div.about ~ div {
+#right article + div.about {
 
     display: none;
     @include media-query($on-palm){
-            display: block;
+        display: block;
     }
+}
+
+.slide {
+    height: auto;
+    overflow: hidden;
+}
+
+.slide .excerpted {
+    overflow: hidden;
+}
+
+.slide .expanded {
+    color: $backgroundColour;
+    background-color: $bodyColour;
+    max-height: 0;
+    overflow: hidden;
+    @include transdefaults(max-height .5s ease-in 0s)
+}
+
+.slide .expanded.show {
+    max-height: 50rem;
+    @include transdefaults(max-height .5s ease-out 0s)
 }
 
 h2.post-title {

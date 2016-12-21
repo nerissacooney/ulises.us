@@ -1,8 +1,6 @@
 var Ps = require('perfect-scrollbar');
 
-window.onload = function() {
-
-    var columnLeft = document.querySelector('#left');        
+$(function() {
 
     var params= {
         minScrollbarLength: 25,
@@ -10,9 +8,23 @@ window.onload = function() {
         supressScrollX: true
     };
 
-    Ps.initialize(columnLeft, params);
- 
+    var columnLeft = document.querySelector('#left');        
     var columnRight = document.querySelector('#right');        
 
+
+
+    Ps.initialize(columnLeft, params);
     Ps.initialize(columnRight, params);
-}
+
+    function setExpandPost(el) {
+
+        $(el).on('click',function(e){
+            var parent = $(e.currentTarget).data('parent');
+            $('.' + parent + ' .excerpted').toggleClass('hide');
+            $('.' + parent + ' .expanded').toggleClass('show');
+        });
+    }
+
+    setExpandPost('header ul + ul li:nth-child(1)');
+
+});
