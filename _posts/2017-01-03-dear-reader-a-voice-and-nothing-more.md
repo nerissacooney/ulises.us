@@ -7,8 +7,8 @@ title: 'Dear Reader: A Voice and Nothing More'
 
 ![10-carrion_thumb-2.jpg]({{site.baseurl}}/assets/img/10-carrion_thumb-2.jpg)
 
-
-6:30pm-8pm
+Tuesday, January 10, 2017
+6:30PM—8PM
 
 
 Join Ulises for a book discussion on Mladen Dolars's text "A Voice and Nothing More".  This event is the first in a new reading group series from Ulises entitled "Dear Reader". The reading for this session is the introduction to "A Voice and Nothing More" found in the link below. 
@@ -23,13 +23,13 @@ Facilitating the discussion is Hammam Aldouri. Hammam Aldouri is an independent 
 
 Ulises is a bookshop and curatorial platform dedicated to artists' books and independent art publications. Performing the model of a quarterly periodical, each curatorial season of Ulises invites contributors to present publications, workshops, lectures, artworks or collaborations in response to a theme.
 
-
 ---
 
 
 ## Twelve Books & Seven Records: Re-Voice
 
-Re-Voice, a curated selection of books and records on the theme of voice. By Mark Beasley
+
+A curated selection of books and records on the theme of voice, by Mark Beasley
 
 1. Ashley, Robert, Perfect Lives: An Opera, Burning Books, New York, 1991
 
