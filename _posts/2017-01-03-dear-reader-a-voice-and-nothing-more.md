@@ -6,11 +6,9 @@ title: 'Dear Reader: A Voice and Nothing More'
 categories: left
 ---
 
+Tuesday, January 10, 2017, 6:30PM—8PM
+
 ![10-carrion_thumb-2.jpg]({{site.baseurl}}/assets/img/10-carrion_thumb-2.jpg)
-
-Tuesday, January 10, 2017
-6:30PM—8PM
-
 
 Join Ulises for a book discussion on Mladen Dolars's text "A Voice and Nothing More".  This event is the first in a new reading group series from Ulises entitled "Dear Reader". The reading for this session is the introduction to "A Voice and Nothing More" found in the link below. 
 
