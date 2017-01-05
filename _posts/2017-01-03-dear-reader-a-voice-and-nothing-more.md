@@ -3,6 +3,7 @@ date: '2017-01-03 22:33 -0500'
 layout: post
 published: true
 title: 'Dear Reader: A Voice and Nothing More'
+categories: left
 ---
 
 ![10-carrion_thumb-2.jpg]({{site.baseurl}}/assets/img/10-carrion_thumb-2.jpg)
