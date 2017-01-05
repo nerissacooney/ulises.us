@@ -1,7 +1,7 @@
 ---
 date: '2017-01-03 22:33 -0500'
 layout: post
-published: false
+published: true
 title: 'Dear Reader: A Voice and Nothing More'
 ---
 
