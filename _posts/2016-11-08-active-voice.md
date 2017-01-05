@@ -1,7 +1,7 @@
 ---
 date: 2016-11-12T00:00:00.000Z
 layout: post
-title: 'No.01 Active Voice'
+title: No.01 Active Voice
 categories: right
 published: true
 ---
@@ -26,7 +26,8 @@ Hannah Black presents a selection of recent video works – including *Intensive
 
 
 
-January 2017
+January 10, 2017, 6:30PM–8PM
+January 17, 2017, 6:30PM–8PM
 Mark Beasley: Re-Voice Reading Room
 
-Mark Beasley presents, *Re-Voice*, a curated selection of books and records on the theme of voice. In January we we host a series of discussions on excerpts from Mark's list. Pdfs of excerpts will be made available online in mid December.
+Mark Beasley presents, *Re-Voice*, a curated selection of books and records on the theme of voice. These events are the first in a new reading group series from Ulises entitled "Dear Reader". These discussions aim to open up and invite conversation on excerpts from Mark's list. 
