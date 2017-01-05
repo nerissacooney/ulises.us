@@ -183,11 +183,11 @@ article p span {
     }
 }
 
-#right div.about ~ div {
+#right article + div.about {
 
     display: none;
     @include media-query($on-palm){
-            display: block;
+        display: block;
     }
 }
 
