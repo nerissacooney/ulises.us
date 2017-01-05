@@ -20,8 +20,6 @@ Active Voice considers the voice in relation to listening, language, and politic
 
 Facilitating the discussion is Hammam Aldouri. Hammam Aldouri is an independent scholar who holds a PhD in philosophy from the CRMEP, Kingston University and a Helena Rubinstein Fellowship in Critical Studies from the Whitney Museum of American Art, Independent Study Program. His writing has been published in Radical Philosophy, Detroit Research and Field Journal. He is currently a contributor to the Philadelphia based online art magazine The Artblog.  
 
-Ulises is a bookshop and curatorial platform dedicated to artists' books and independent art publications. Performing the model of a quarterly periodical, each curatorial season of Ulises invites contributors to present publications, workshops, lectures, artworks or collaborations in response to a theme.
-
 
 ---
 
