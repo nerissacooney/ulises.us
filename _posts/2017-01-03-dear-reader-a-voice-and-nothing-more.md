@@ -1,7 +1,7 @@
 ---
 date: '2017-01-03 22:33 -0500'
 layout: post
-published: false
+published: true
 title: 'Dear Reader: A Voice and Nothing More'
 ---
 
@@ -13,7 +13,7 @@ Tuesday, January 10, 2017
 
 Join Ulises for a book discussion on Mladen Dolars's text "A Voice and Nothing More".  This event is the first in a new reading group series from Ulises entitled "Dear Reader". The reading for this session is the introduction to "A Voice and Nothing More" found in the link below. 
 
-PDF Embedded: A Voice and Nothing More, "The Ethics of Voice" Introduction
+[A Voice and Nothing More, "The Ethics of Voice" Introduction](https://drive.google.com/file/d/0By5QSqc6j12OTElYZ3ZRVlZVaWM/view)
 
 A Voice and Nothing More by Mladen Dolar is one of the publications included in "Twelve Books & Seven Records: Re-voice," a presentation of books and albums selected by curator Mark Beasley as his contribution to Ulises's curatorial season Active Voice. 
 
