@@ -183,11 +183,11 @@ article p span {
     }
 }
 
-#right div.about ~ div {
+#right article + div.about {
 
     display: none;
     @include media-query($on-palm){
-            display: block;
+        display: block;
     }
 }
 
@@ -198,4 +198,9 @@ h2.post-title {
 div.post-content p:first-child {
     text-indent: 0;
     text-align: center;
+}
+
+article.post div.post-content ol li p{
+    padding-top: .1rem;
+    text-align: left;
 }

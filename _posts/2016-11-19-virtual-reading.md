@@ -1,12 +1,15 @@
 ---
-date: 2016-11-19T00:00:00.000Z
+date: '2016-12-14 23:11 -0500'
 layout: post
-title:  Virtual Reading and Conversation
-date:   2016-11-19
-categories: left
-published: true
+published: false
+title: 'Active Voice: Screen Time with Hannah Black'
 ---
 
-December 18, 2016
+December 18, 2016, 4PM–5:30PM
 
-Hannah Black presents a selection of recent video works – including *Intensive Care/Hot New Track*, *Fall of Communism*, and *My Bodies* – that consider pop vocals as a space to explore violence, power, and pluralism.
+![dd2.png]({{site.baseurl}}/assets/img/dd2.png)
+
+
+Join Ulises for a reading with artist and writer Hannah Black. Black, a current contributor to the first curatorial season of Ulises, Active Voice, will read via Skype from a selection of her recent writings. 
+
+Active Voice considers the voice in relation to listening, language, and political agency through a series of programs, artworks, readings, events, and curated publications from contributors Mark Beasley, Hannah Black, and Steffani Jemison. As a contributor to Active Voice, Hannah Black presents recent video works on view which consider pop vocals as a space to explore violence, power, and pluralism.
