@@ -1,8 +1,9 @@
 ---
 date: '2017-01-13 22:34 -0500'
 layout: post
-published: true
+published: false
 title: 'Dear Reader: Excitable Speech'
+categories: left
 ---
 Tuesday, January 17, 2017, 6:30PM–8PM
 
