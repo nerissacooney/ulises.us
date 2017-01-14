@@ -49,7 +49,7 @@ kramdown:
 
 sass:
   sass_dir: _sass
-  style: expanded
+  style: compressed
 
 mini_magick:
   resize:

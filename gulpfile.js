@@ -33,7 +33,7 @@ gulp.task('js', function(){
     }).bundle()
         .pipe(source('main.min.js'))
         .pipe(buffer())
-        // .pipe(uglify())
+        .pipe(uglify())
         .pipe(gulp.dest(src + '/js'));
 });
 
