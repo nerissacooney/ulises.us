@@ -1,7 +1,7 @@
 ---
 date: '2017-01-13 22:34 -0500'
 layout: post
-published: false
+published: true
 title: 'Dear Reader: Excitable Speech'
 ---
 Tuesday, January 17, 2017, 6:30PM–8PM
@@ -20,7 +20,9 @@ Active Voice considers the voice in relation to listening, language, and politic
 
 Maria Murphy is a PhD candidate in musicology at the University of Pennsylvania. Her research considers the relationship between music technologies and body politics through the work of multimedia artists Laurie Anderson, Yoko Ono, and Karen Finley. In her dissertation, Maria maps how these artists participated in a particular mode of aesthetic activism, which took part in biopolitical shifts concerning the circulation and industrialization of information, the production of healthy and sickly bodies, and the political fictions of gender and sexuality during a precarious time for public health and social hygiene under Ronald Reagan’s administration. Maria is also interested in developing creative spaces for hands-on research. She is the co-founder of Listening (to) Cyborgs: A Media Archaeology Workshop on Sound Technologies (listeningtocyborgs.com). 
 
+
 ----------------------------------------
+
 
 ## Twelve Books & Seven Records: Re-Voice
 A curated selection of books and records on the theme of voice, by Mark Beasley
