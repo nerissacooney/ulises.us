@@ -146,13 +146,22 @@ header.global-header {
     }
 }
 
-.column#left .ps-scrollbar-y-rail {
-    position: fixed;
-    left: 0.5rem;
+.ps-container#left {
+
+    & .ps-scrollbar-y-rail {
+        left: 0;
+        @include media-query($on-palm){
+                display: none;
+        }
 }
 
-.column#right .ps-scrollbar-y-rail {
-    right: 0.5rem;
+.ps-container#right {
+
+    & .ps-scrollbar-y-rail {
+    right: 0.2rem;
+    @include media-query($on-palm){
+            display: none;
+    }
 }
 
 .column#right {
