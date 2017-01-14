@@ -51,10 +51,11 @@ sass:
   sass_dir: _sass
   style: expanded
 
-minimagick:
-  source: assets/img
-  destination: assets/img
-  resize: "600x>"
+mini_magick:
+  resize:
+    source: assets/img
+    destination: assets/img
+    resize: "600x>"
 
 prose:
   rooturl: '_posts'
