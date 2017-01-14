@@ -146,6 +146,19 @@ header.global-header {
     }
 }
 
+.ps-container {
+    &#left .ps-scrollbar-x-rail{
+        display: none;
+    }
+    &#rigt .ps-scrollbar-x-rail{
+        display: none;
+    }
+
+    & .ps-scrollbar-x-rail{
+        display: none;
+    }
+}
+
 .ps-container#left {
 
     & .ps-scrollbar-y-rail {
