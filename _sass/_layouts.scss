@@ -153,14 +153,17 @@ header.global-header {
         @include media-query($on-palm){
                 display: none;
         }
+    }
 }
 
 .ps-container#right {
 
     & .ps-scrollbar-y-rail {
     right: 0.2rem;
-    @include media-query($on-palm){
-            display: none;
+
+        @include media-query($on-palm){
+                display: none;
+            }
     }
 }
 
