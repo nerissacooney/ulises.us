@@ -11,7 +11,7 @@ Tuesday, January 17, 2017, 6:30PM–8PM
 
 Join Ulises for a reading group discussion led by Maria Murphy on Judith Butler's text _Excitable Speech: A Politics of the Performative_. This session's reading will focus on Chapter 1 of _Excitable Speech_ entitled, Burning Acts, Injurious Speech, found in the link below. 
 
-[Butler, Judith. "Chapter 1." Excitable Speech: A Politics of the Performative. New York: Routledge, 1997. 43-69.](https://drive.google.com/open?id=0BwPEQQWlPfvacmxaTHFfc3dWc0tRVzFrRWg4Vzhqc2hUalRv/view){:target="_blank"} 
+[Butler, Judith. "Chapter 1." Excitable Speech: A Politics of the Performative. New York: Routledge, 1997. 43-69.](https://drive.google.com/file/d/0BwPEQQWlPfvacmxaTHFfc3dWc0tRVzFrRWg4Vzhqc2hUalRv/view){:target="_blank"} 
 
 As part of the discussion, Maria will perform "The Production of Voice," a short spoken-word piece for voice and voice processor and John Cage's "Aria" (1958), originally written for interpretation by Cathy Berberian. 
 
