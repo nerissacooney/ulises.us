@@ -21,6 +21,9 @@ body {
 
 // * * * * * Home Page Elements * * * * *
 
+
+// Both column headers
+
 header.global-header {
 
     height: 7rem;
@@ -86,6 +89,47 @@ header.global-header {
     & span { font-family:  Lars, "Helvetica Neue", sans-serif; }
 }
 
+// Responsive about paragraph
+
+.about { 
+    background-color: $backgroundColour; 
+    clear: both;
+
+    & p { padding-top: 1.5rem; }
+
+    & hr.big { display: block; }
+    & hr.small { display: none; }
+
+    @include media-query($on-palm){
+
+        & hr.big { display: none; }
+        & hr.small { display: block; }
+
+        & p { 
+            padding-top: 0; 
+            padding-bottom: 2rem; 
+        }
+    }
+}
+
+#right div.about:first-of-type {
+
+    display: block;
+    @include media-query($on-palm){
+            display: none;
+    }
+}
+
+#right article + div.about{
+
+    display: none;
+    @include media-query($on-palm){
+        display: block;
+    }
+}
+
+// Left column headers
+
 #left header ul {
     display: none;
     text-align: center;
@@ -101,10 +145,7 @@ header.global-header {
     }
 }
 
-.about p {
-    text-indent: 5rem;
-    padding-top: 1.5rem;
-}
+// General column content
 
 .row-wrapper {
     @include row();
@@ -124,9 +165,6 @@ header.global-header {
     overflow-y: scroll;
     overflow-x: hidden;
 
-    & .about hr.big { display: block; }
-    & .about hr.small { display: none; }
-
     h2 { text-align: center; }
 
     @include media-query($on-palm){
@@ -134,45 +172,6 @@ header.global-header {
         @include shift(0);
         position: inherit;
         height: auto;
-
-        & .about hr.big { display: none; }
-        & .about hr.small { display: block; }
-
-        & .about p { 
-            padding-top: 0; 
-            padding-bottom: 2rem; 
-        }
-
-    }
-}
-
-.ps-container {
-    &#left .ps-scrollbar-x-rail{
-        display: none;
-    }
-    &#right .ps-scrollbar-x-rail{
-        display: none;
-    }
-}
-
-.ps-container#left {
-
-    & .ps-scrollbar-y-rail {
-        left: 0;
-        @include media-query($on-palm){
-                display: none;
-        }
-    }
-}
-
-.ps-container#right {
-
-    & .ps-scrollbar-y-rail {
-    right: 0.2rem;
-
-        @include media-query($on-palm){
-                display: none;
-            }
     }
 }
 
@@ -192,29 +191,13 @@ article p span {
     font-size: 1.5rem;
 }
 
-.about { 
-    background-color: $backgroundColour; 
-    clear: both;
-}
-
-#right div.about > div {
-    display: block;
-    @include media-query($on-palm){
-            display: none;
-    }
-}
-
-#right article + div.about {
-
-    display: none;
-    @include media-query($on-palm){
-        display: block;
-    }
-}
+// Post
 
 h2.post-title {
     text-transform: capitalize;
 }
+
+    // assuming first line of post is data/time
 
 div.post-content p:first-child {
     text-indent: 0;
@@ -224,4 +207,22 @@ div.post-content p:first-child {
 article.post div.post-content ol li p{
     padding-top: .1rem;
     text-align: left;
+}
+
+// Perfect scrollbar overrides
+//
+// issue with typeset text-indent applying to images
+// wrapped in <p> as parsed by markdown, forcing
+// x scroll
+
+.ps-container#left {
+
+    .ps-scrollbar-y-rail{ left: 0; }
+    .ps-scrollbar-x-rail{ display: none; }
+}
+
+.ps-container#right {
+
+    .ps-scrollbar-y-rail{ right: 0.2rem; }
+    .ps-scrollbar-x-rail{ display: none; }
 }
