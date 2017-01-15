@@ -1,8 +1,9 @@
 ---
 date: '2017-01-14 19:09 -0500'
 layout: post
-published: false
+published: true
 title: Screen Time with Hannah Black
+categories: left
 ---
 December 18, 2016, 4PM - 5:30PM
 
