@@ -18,9 +18,9 @@ $breakpoints: (
 $rootsizes: (
   rootsize-0: 14,   // 24px line-height body text
   rootsize-1: 14,   // 28px line-height body text
-  rootsize-2: 17,   // 30px line-height body text
-  rootsize-3: 17,   // 34px line-height body text
-  rootsize-4: 17    // 38px line-height body text
+  rootsize-2: 14,   // 30px line-height body text
+  rootsize-3: 14,   // 34px line-height body text
+  rootsize-4: 14    // 38px line-height body text
 ) !default;
 
 // Set the optimum line-length for your text (based on typeface).
@@ -96,7 +96,7 @@ $on-laptop:        800px !default;
 }
 
 $headingColour: #DFDFDF !default;
-$bodyColour: #CFCFCF !default;
+$bodyColour: #DFDFDF !default;
 $linkColour: $bodyColour !default;
 $hoverColour: darken($bodyColour,25%) !default;
 $captionColour: #BDC8CC !default;
