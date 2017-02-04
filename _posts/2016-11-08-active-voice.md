@@ -31,7 +31,7 @@ Mark Beasley: Re-Voice Reading Room
 
 Mark Beasley presents, *Re-Voice*, a curated selection of books and records on the theme of voice. These events are the first in a new reading group series from Ulises entitled "Dear Reader". These discussions aim to open up and invite conversation on excerpts from Mark's list.
 
-----------------------------------------
+
 
 ## Twelve Books & Seven Records: Re-Voice
 A curated selection of books and records on the theme of voice, by Mark Beasley
