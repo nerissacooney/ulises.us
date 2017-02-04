@@ -229,3 +229,8 @@ div.post-content p:first-child {
     text-indent: 0;
     text-align: center;
 }
+
+article.post div.post-content ol li p{
+    padding-top: .1rem;
+    text-align: left;
+}
