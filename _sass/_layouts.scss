@@ -229,9 +229,7 @@ h2.post-title {
     text-transform: uppercase;
 }
 
-    // assuming first line of post is data/time
-
-div.post-content p:first-child {
+header.post-header p {
     text-indent: 0;
     text-align: center;
 }

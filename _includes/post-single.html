@@ -6,6 +6,10 @@
 
     <!-- todo: add post link here when single post view designed  -->
 
+    {% if post.event_date %}
+      {{ post.event_date | prepend: "<p>" | append: "</p>" }}
+    {% endif %}
+
   </header>
 
   <div class="post-content" itemprop="articleBody">

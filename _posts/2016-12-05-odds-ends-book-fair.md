@@ -1,11 +1,11 @@
 ---
 date: 2016-12-05T00:00:00.000Z
+event_date: December 9, 2016, 11:30AM–4:30PM
 layout: post
 title: Odds & Ends Book Fair
 categories: left
 published: true
 ---
-December 9, 2016, 11:30AM–4:30PM
 
 ![odds and ends bookfair logo](assets/img/odds_ends_2016.jpg)
 

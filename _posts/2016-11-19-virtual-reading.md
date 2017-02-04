@@ -1,11 +1,10 @@
 ---
 date: '2016-12-14 23:11 -0500'
+event_date: December 18, 2016, 4–5:30PM
 layout: post
 published: false
 title: 'Active Voice: Screen Time with Hannah Black'
 ---
-
-December 18, 2016, 4PM–5:30PM
 
 ![dd2.png]({{site.baseurl}}/assets/img/dd2.png)
 

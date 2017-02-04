@@ -71,7 +71,17 @@ prose:
         field:
           element: "text"
           placeholder: "enter post title"
+          help: This will appear as the post title
           label: "title"
+      - name: "date"
+        field:
+          element: "text"
+          help: Date of post affects in which order posts appear
+          value: CURRENT_DATETIME
+      - name: "event_date"
+        field:
+          element: "text"
+          help: If applicable, enter date and time of event as it should appear
       - name: "layout"
         field:
           element: "hidden"
@@ -92,12 +102,16 @@ prose:
           label: "tags"
           placeholder: "choose or add tags"
           alterable: true
-      - name: "date"
-        field:
-          element: "hidden"
-          value: CURRENT_DATETIME
+          options:
+            - name: "sticky"
+              value: "sticky"
+            - name: "active-voice"
+              value: "active-voice"
+            - name: "intimacy"
+              value: "intimacy"
       - name: "published"
         field:
           element: "checkbox"
           label: "published"
+          help: Check if you'd like to see this post published to the public site
           value: false

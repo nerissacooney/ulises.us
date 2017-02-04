@@ -1,12 +1,11 @@
 ---
 date: '2017-01-03 22:33 -0500'
+event_date: Tuesday, January 10, 2017, 6:30—8PM
 layout: post
 published: true
 title: 'Dear Reader: A Voice and Nothing More'
 categories: left
 ---
-
-Tuesday, January 10, 2017, 6:30PM—8PM
 
 ![10-carrion_thumb-2.jpg]({{site.baseurl}}/assets/img/10-carrion_thumb-2.jpg)
 

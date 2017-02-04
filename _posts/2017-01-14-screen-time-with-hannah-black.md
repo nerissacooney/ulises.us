@@ -1,11 +1,11 @@
 ---
 date: '2017-01-14 19:09 -0500'
+event_date: December 18, 2016, 4-5:30PM
 layout: post
 published: false
 title: Screen Time with Hannah Black
 categories: left
 ---
-December 18, 2016, 4PM - 5:30PM
 
 ![fall-of-communism.png]({{site.baseurl}}/assets/img/fall-of-communism.png)
 
