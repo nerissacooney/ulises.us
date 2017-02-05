@@ -173,7 +173,7 @@ header.global-header {
     height: 100vh;
     overflow-y: scroll;
     overflow-x: hidden;
-    padding: 0 3rem;
+    padding: 0 4.5rem;
 
     h2 { text-align: center; }
 
@@ -232,6 +232,10 @@ h2.post-title {
 header.post-header p {
     text-indent: 0;
     text-align: center;
+}
+
+article.post {
+    margin-bottom: 4rem;
 }
 
 article.post div.post-content ol li p{

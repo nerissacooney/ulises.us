@@ -9,8 +9,10 @@ $breakpoints: (
   break-0: 0,     // 0px       Mobile first
   break-1: 640,   // 640px   ~ Small tablet up
   break-2: 800,   // 800px   ~ Large tablet up
-  break-3: 1024,  // 1024px  ~ Desktop up
-  break-4: 1600   // 1600px  ~ Large desktop up
+
+  // disabled a number of breakpoints --
+  // break-3: 1024,  // 1024px  ~ Desktop up
+  // break-4: 1600   // 1600px  ~ Large desktop up
 ) !default;
 
 // Root font-sizes for each breakpoint. Set to half desired line-height of body text.
@@ -19,8 +21,8 @@ $rootsizes: (
   rootsize-0: 14,   // 24px line-height body text
   rootsize-1: 14,   // 28px line-height body text
   rootsize-2: 14,   // 30px line-height body text
-  rootsize-3: 14,   // 34px line-height body text
-  rootsize-4: 14    // 38px line-height body text
+  // rootsize-3: 14,   // 34px line-height body text
+  // rootsize-4: 14    // 38px line-height body text
 ) !default;
 
 // Set the optimum line-length for your text (based on typeface).
@@ -31,8 +33,8 @@ $measures: (
   measure-0: 500,  // 500px wide
   measure-1: 550,  // 550px wide
   measure-2: 600,  // 600px wide
-  measure-3: 680,  // 680px wide
-  measure-4: 750   // 750px wide
+  // measure-3: 680,  // 680px wide
+  // measure-4: 750   // 750px wide
 ) !default;
 
 // Set the max-widths for containers (based on design).
@@ -41,8 +43,8 @@ $maxwidths: (
   width-0: 500,  // 500px wide
   width-1: 600,  // 600px wide
   width-2: 800,  // 800px wide
-  width-3: 1100, // 110px wide
-  width-4: 1300  // 1300px wide
+  // width-3: 1100, // 110px wide
+  // width-4: 1300  // 1300px wide
 ) !default;
 
 // Gutter widths
@@ -97,7 +99,7 @@ $on-laptop:        800px !default;
 
 $headingColour: #DFDFDF !default;
 $bodyColour: #DFDFDF !default;
-$linkColour: $bodyColour !default;
+$linkColour: #D8BFD8 !default;
 $hoverColour: darken($bodyColour,25%) !default;
 $captionColour: #BDC8CC !default;
 $white: #FFFFFF !default;

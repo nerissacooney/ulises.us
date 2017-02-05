@@ -27,40 +27,41 @@ $modular-scale: (
     theta:   14.4,
     iota:    13.1
   ),
-  // http://www.modularscale.com/?25,45&px&1.414&sass&text
-  scale-2: (
-    alpha:   56.6,
-    beta:    44,
-    gamma:   40,
-    delta:   31.1,
-    epsilon: 28.3,
-    zeta:    22.0,
-    eta:     20.0,
-    theta:   15.6,
-    iota:    14.1
+// http://www.modularscale.com/?19&&1.2&web&text
+scale-2: (
+    alpha:   47.28,
+    beta:    39.4,
+    gamma:   32.83,
+    delta:   27.36,
+    epsilon: 22.8,
+    zeta:    19,
+    eta:     15.83,
+    theta:   13.19,
+    iota:    11
   ),
-  // http://www.modularscale.com/?25,45&px&1.414&sass&text
-  scale-3: (
-    alpha:   56.6,
-    beta:    44,
-    gamma:   40,
-    delta:   31.1,
-    epsilon: 28.3,
-    zeta:    22.0,
-    eta:     20.0,
-    theta:   15.6,
-    iota:    14.1
-  ),
-  // http://www.modularscale.com/?22,40&px&1.414&sass&text
-  scale-4: (
-    alpha:   56.6,
-    beta:    44,
-    gamma:   40,
-    delta:   31.1,
-    epsilon: 28.3,
-    zeta:    22.0,
-    eta:     20.0,
-    theta:   15.6,
-    iota:    14.1
-  )
+// includes way too many breakpoints!
+//   // http://www.modularscale.com/?25,45&px&1.414&sass&text
+//   scale-3: (
+//     alpha:   59.99,
+//     beta:    45,
+//     gamma:   33.76,
+//     delta:   25.33,
+//     epsilon: 26,
+//     zeta:    19.0,
+//     eta:     14.25,
+//     theta:   10.69,
+//     iota:    8.02
+//   ),
+// // http://www.modularscale.com/?19&px&1.333&sass&text
+// scale-4: (
+//     alpha:   59.99,
+//     beta:    45,
+//     gamma:   33.76,
+//     delta:   25.33,
+//     epsilon: 26,
+//     zeta:    19.0,
+//     eta:     14.25,
+//     theta:   10.69,
+//     iota:    8.02
+//   )
 );
