@@ -81,7 +81,7 @@ prose:
       - name: "event_date"
         field:
           element: "text"
-          help: If applicable, enter date and time of event as it should appear
+          help: If applicable, enter date and time of event as it should appear in the text of the post
       - name: "layout"
         field:
           element: "hidden"
