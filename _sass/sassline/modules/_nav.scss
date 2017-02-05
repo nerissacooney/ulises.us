@@ -126,13 +126,13 @@
       @include fontsize(12, 2);
     }
 
-    @include breakpoint(break-3) {
-      @include fontsize(12, 3);
-    }
+    // @include breakpoint(break-3) {
+    //   @include fontsize(12, 3);
+    // }
 
-    @include breakpoint(break-4) {
-      @include fontsize(12, 4);
-    }
+    // @include breakpoint(break-4) {
+    //   @include fontsize(12, 4);
+    // }
   }
 }
 

@@ -25,6 +25,6 @@ $(function() {
         });
     }
 
-    setExpandPost('header ul + ul li:nth-child(1)');
+    setExpandPost('header ul li:nth-child(2)');
 
 });

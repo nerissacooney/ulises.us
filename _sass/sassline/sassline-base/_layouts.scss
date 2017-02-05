@@ -40,10 +40,10 @@
     padding-right: map-get($gutterwidths, small);
   }
 
-  @include breakpoint(break-3) {
-    padding-left: map-get($gutterwidths, medium);
-    padding-right: map-get($gutterwidths, medium);
-  }
+  // @include breakpoint(break-3) {
+  //   padding-left: map-get($gutterwidths, medium);
+  //   padding-right: map-get($gutterwidths, medium);
+  // }
 }
 
 // Two columns.
@@ -103,13 +103,13 @@
     @include ideal-measure(2, small);
   }
 
-  @include breakpoint(break-3) {
-    @include ideal-measure(3, medium);
-  }
+  // @include breakpoint(break-3) {
+  //   @include ideal-measure(3, medium);
+  // }
 
-  @include breakpoint(break-4) {
-    @include ideal-measure(4, medium);
-  }
+  // @include breakpoint(break-4) {
+  //   @include ideal-measure(4, medium);
+  // }
 }
 
 // Sidebar.
@@ -125,15 +125,15 @@
     @include ideal-measure(2, small, false);
   }
 
-  @include breakpoint(break-3) {
-    @include ideal-measure(3, medium, false);
+  // @include breakpoint(break-3) {
+  //   @include ideal-measure(3, medium, false);
 
-    padding-right: map-get($gutterwidths, large);
-  }
+  //   padding-right: map-get($gutterwidths, large);
+  // }
 
-  @include breakpoint(break-4) {
-    @include ideal-measure(4, medium, false);
-  }
+  // @include breakpoint(break-4) {
+  //   @include ideal-measure(4, medium, false);
+  // }
 }
 
 // If sidebar on the right side.
@@ -143,10 +143,10 @@
     padding-right: map-get($gutterwidths, small);
   }
 
-  @include breakpoint(break-3) {
-    padding-left: map-get($gutterwidths, large);
-    padding-right: map-get($gutterwidths, medium);
-  }
+  // @include breakpoint(break-3) {
+  //   padding-left: map-get($gutterwidths, large);
+  //   padding-right: map-get($gutterwidths, medium);
+  // }
 }
 
 // Set the main text one level down in the modular scale for narrower columns.
@@ -154,27 +154,27 @@
 .column--quad,
 .column--sidebar {
 
-  @include breakpoint(break-3) {
+  // @include breakpoint(break-3) {
 
-    p {
-      @include sassline($fontsize: eta, $font: $bodytype, $lineheight: 2, $below: 2, $breakpoint: 3);
-    }
+  //   p {
+  //     @include sassline($fontsize: eta, $font: $bodytype, $lineheight: 2, $below: 2, $breakpoint: 3);
+  //   }
 
-    li {
-      @include fontsize(eta, 3);
-    }
-  }
+  //   li {
+  //     @include fontsize(eta, 3);
+  //   }
+  // }
 
-  @include breakpoint(break-4) {
+  // @include breakpoint(break-4) {
 
-    p {
-      @include sassline($fontsize: eta, $font: $bodytype, $lineheight: 2, $below: 2, $breakpoint: 4);
-    }
+  //   p {
+  //     @include sassline($fontsize: eta, $font: $bodytype, $lineheight: 2, $below: 2, $breakpoint: 4);
+  //   }
 
-    li {
-      @include fontsize(eta, 4);
-    }
-  }
+  //   li {
+  //     @include fontsize(eta, 4);
+  //   }
+  // }
 }
 
 // Main column on the right with inline sidenotes.
@@ -191,15 +191,15 @@
     @include ideal-measure(2, small, false, margin-left);
   }
 
-  @include breakpoint(break-3) {
-    @include ideal-measure(3, medium);
-    @include ideal-measure(3, medium, false, margin-left);
-  }
+  // @include breakpoint(break-3) {
+  //   @include ideal-measure(3, medium);
+  //   @include ideal-measure(3, medium, false, margin-left);
+  // }
 
-  @include breakpoint(break-4) {
-    @include ideal-measure(4, medium);
-    @include ideal-measure(4, medium, false, margin-left);
-  }
+  // @include breakpoint(break-4) {
+  //   @include ideal-measure(4, medium);
+  //   @include ideal-measure(4, medium, false, margin-left);
+  // }
 
   .sidenote {
 
@@ -216,17 +216,17 @@
       @include ideal-measure(2, small, false);
     }
 
-    @include breakpoint(break-3) {
-      @include ideal-measure(3, medium, false);
+    // @include breakpoint(break-3) {
+    //   @include ideal-measure(3, medium, false);
 
-      padding-right: map-get($gutterwidths, large);
-    }
+    //   padding-right: map-get($gutterwidths, large);
+    // }
 
-    @include breakpoint(break-4) {
-      @include ideal-measure(4, medium, false);
+    // @include breakpoint(break-4) {
+    //   @include ideal-measure(4, medium, false);
 
-      padding-left: map-get($gutterwidths, medium);
-    }
+    //   padding-left: map-get($gutterwidths, medium);
+    // }
   }
 }
 
@@ -241,13 +241,13 @@
     @include ideal-measure(2, small);
   }
 
-  @include breakpoint(break-3) {
-    @include ideal-measure(3, medium);
-  }
+  // @include breakpoint(break-3) {
+  //   @include ideal-measure(3, medium);
+  // }
 
-  @include breakpoint(break-4) {
-    @include ideal-measure(4, medium);
-  }
+  // @include breakpoint(break-4) {
+  //   @include ideal-measure(4, medium);
+  // }
 
   .sidenote {
 
@@ -265,18 +265,18 @@
       @include ideal-measure(2, small, true, left);
     }
 
-    @include breakpoint(break-3) {
-      @include ideal-measure(3, medium, false);
-      @include ideal-measure(3, medium, true, left);
+    // @include breakpoint(break-3) {
+    //   @include ideal-measure(3, medium, false);
+    //   @include ideal-measure(3, medium, true, left);
 
-      padding-left: map-get($gutterwidths, large);
-    }
+    //   padding-left: map-get($gutterwidths, large);
+    // }
 
-    @include breakpoint(break-4) {
-      @include ideal-measure(4, medium, false);
-      @include ideal-measure(4, medium, true, left);
+    // @include breakpoint(break-4) {
+    //   @include ideal-measure(4, medium, false);
+    //   @include ideal-measure(4, medium, true, left);
 
-      padding-right: map-get($gutterwidths, medium);
-    }
+    //   padding-right: map-get($gutterwidths, medium);
+    // }
   }
 }
