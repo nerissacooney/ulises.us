@@ -45,7 +45,8 @@ A paperback erotica fiction series, inspired by Maurice Girodias’ legendary Ol
 
 Selected Readings on Intimacy:
 
-1. James Baldwin, All worksRoland Barthes, “A Lover’s Discourse, Incidents, and Camera Lucida”
+1. James Baldwin, All works
+1. Roland Barthes, “A Lover’s Discourse, Incidents, and Camera Lucida”
 1. Leo Bersani and Adam Phillips, “Intimacies”
 1. Svetlana Boym, “Diasporic Intimacy”
 1. Veena Das, “Life and Words: Violence and the Descent into the Ordinary”
@@ -64,3 +65,5 @@ Selected Readings on Intimacy:
 1. Kathleen Stewart, “Ordinary Affects”
 1. Jalal Toufic, “Undying Love”, or “Love Dies”
 1. Patricia Williams, “On Being an Object of Property”
+
+1.
