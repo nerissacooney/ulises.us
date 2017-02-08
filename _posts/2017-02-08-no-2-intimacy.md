@@ -22,10 +22,10 @@ Sharon Hayes
 36.8 x 50.2 cm
 14 1/2 x 19 3/4 in
 Edition of 5 + 2 AP 
-	In addition to "May 1st," Hayes presents a new public work entitled, "Beyond the moon is Lesbos, you told me", a series of texts posted in public space in Philadelphia that addresses both the present political moment and the linguistic and psychic terrain of the outburst.
+
+In addition to "May 1st," Hayes presents a new public work entitled, "Beyond the moon is Lesbos, you told me", a series of texts posted in public space in Philadelphia that addresses both the present political moment and the linguistic and psychic terrain of the outburst.
 
 Badlands Unlimited, "New Lovers" series
-
 - Wednesday Black, “How To Train Your Virgin”
 - Lilith Wes, “We Love Lucy” 
 - Andrea McGinty, “God, I Don’t Even Know Your Name”  
