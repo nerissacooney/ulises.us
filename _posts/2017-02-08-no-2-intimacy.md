@@ -65,5 +65,3 @@ Selected Readings on Intimacy:
 1. Kathleen Stewart, “Ordinary Affects”
 1. Jalal Toufic, “Undying Love”, or “Love Dies”
 1. Patricia Williams, “On Being an Object of Property”
-
-1.
