@@ -25,7 +25,7 @@ Edition of 5 + 2 AP
 
 In addition to "May 1st," Hayes presents a new public work entitled, "Beyond the moon is Lesbos, you told me", a series of texts posted in public space in Philadelphia that addresses both the present political moment and the linguistic and psychic terrain of the outburst.
 
-### Badlands Unlimited, "New Lovers" series
+### Badlands Unlimited, "New Lovers"
 
 A paperback erotica fiction series, inspired by Maurice Girodias’ legendary Olympia Press, Badland’s "New Lovers" series features the raw and uncut writings of authors new to the erotica genre. Each novella in the "New Lovers" series is an independent story of about 12,000-18,000 words in length with its own unique take on relationships, intimacy, and sex, as well as the complexities that bedevil contemporary life and culture today. 
 
@@ -41,8 +41,9 @@ A paperback erotica fiction series, inspired by Maurice Girodias’ legendary Ol
 - "New Lovers" Reading Event with Larissa Pham and Al Bedell, March 4th, 6:30pm
 
 
-Lauren Berlant,
-Selected Readings on Intimacy
+### Lauren Berlant
+
+Selected Readings on Intimacy:
 
 1. James Baldwin, All worksRoland Barthes, “A Lover’s Discourse, Incidents, and Camera Lucida”
 1. Leo Bersani and Adam Phillips, “Intimacies”
