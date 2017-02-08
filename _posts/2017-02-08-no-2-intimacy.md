@@ -22,21 +22,21 @@ Sharon Hayes
 36.8 x 50.2 cm
 14 1/2 x 19 3/4 in
 Edition of 5 + 2 AP 
-
 In addition to "May 1st," Hayes presents a new public work entitled, "Beyond the moon is Lesbos, you told me", a series of texts posted in public space in Philadelphia that addresses both the present political moment and the linguistic and psychic terrain of the outburst.
 
 Badlands Unlimited, "New Lovers" series
 
-Wednesday Black, “How To Train Your Virgin”
-Lilith Wes, “We Love Lucy” 
-Andrea McGinty, “God, I Don’t Even Know Your Name”  
-Lex Brown, “My Wet Hot Drone Summer” 
-Al Bedell, “I Would Do Anything For Love”
-Cara Benedetto, “Burning Blue” 
-Tamara Faith Berger, “Kuntalini” 
-Bettina Davis, “One Valencia Lane”
-Larissa Pham, “Fantasian” 
-"New Lovers" Reading Event with Larissa Pham and Al Bedell, March 4th, 6:30pm
+- Wednesday Black, “How To Train Your Virgin”
+- Lilith Wes, “We Love Lucy” 
+- Andrea McGinty, “God, I Don’t Even Know Your Name”  
+- Lex Brown, “My Wet Hot Drone Summer” 
+- Al Bedell, “I Would Do Anything For Love”
+- Cara Benedetto, “Burning Blue” 
+- Tamara Faith Berger, “Kuntalini” 
+- Bettina Davis, “One Valencia Lane”
+- Larissa Pham, “Fantasian” 
+- "New Lovers" Reading Event with Larissa Pham and Al Bedell, March 4th, 6:30pm
+
 
 Lauren Berlant
 Selected Readings on Intimacy
