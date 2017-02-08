@@ -38,7 +38,7 @@ Badlands Unlimited, "New Lovers" series
 - "New Lovers" Reading Event with Larissa Pham and Al Bedell, March 4th, 6:30pm
 
 
-Lauren Berlant
+Lauren Berlant,
 Selected Readings on Intimacy
 
 1. James Baldwin, All worksRoland Barthes, “A Lover’s Discourse, Incidents, and Camera Lucida”
