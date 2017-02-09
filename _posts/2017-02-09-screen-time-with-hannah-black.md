@@ -15,5 +15,4 @@ Artist and writer Hannah Black. Black, will read via Skype from a selection of h
 
 Image: Hannah Black, "Fall of Communism," 2014, video still
 
-["Fall of Communism" video](Image: Hannah Black, "Fall of Communism," 2014, video still)
-
+View the full ["Fall of Communism" video](https://vimeo.com/110016117)
