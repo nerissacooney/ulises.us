@@ -5,6 +5,8 @@ published: true
 title: 'Launch Party for Quarter No. 2: Intimacy'
 categories: left
 event_date: 'February 11, 2017, 6–9PM'
+tags:
+  - intimacy
 ---
 February 11, 2017, 6–9PM
 
