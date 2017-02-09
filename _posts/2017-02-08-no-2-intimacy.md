@@ -18,7 +18,7 @@ In this quarter Ulises considers intimacy through a close-knit constellation of 
 ### Sharon Hayes
 
 "May 1st," 2012
-5 Letterpress prints (framed)
+Five Letterpress prints (framed)
 36.8 x 50.2 cm
 14 1/2 x 19 3/4 in
 Edition of 5 + 2 AP 
@@ -27,7 +27,7 @@ In addition to "May 1st," Hayes presents a new public work entitled, "Beyond the
 
 ### Badlands Unlimited, "New Lovers"
 
-A paperback erotica fiction series, inspired by Maurice Girodias’ legendary Olympia Press, Badland’s "New Lovers" series features the raw and uncut writings of authors new to the erotica genre. Each novella in the "New Lovers" series is an independent story of about 12,000-18,000 words in length with its own unique take on relationships, intimacy, and sex, as well as the complexities that bedevil contemporary life and culture today. 
+A paperback erotica fiction series inspired by Maurice Girodias’ legendary Olympia Press, Badland’s "New Lovers" series features the raw and uncut writings of authors new to the erotica genre. Each novella in the "New Lovers" series is an independent story of about 12,000-18,000 words in length with its own unique take on relationships, intimacy, and sex, as well as the complexities that bedevil contemporary life and culture today. 
 
 - Wednesday Black, “How To Train Your Virgin”
 - Lilith Wes, “We Love Lucy” 
