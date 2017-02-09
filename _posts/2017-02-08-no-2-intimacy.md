@@ -18,7 +18,7 @@ In this quarter Ulises considers intimacy through a close-knit constellation of 
 ### Sharon Hayes
 
 "May 1st," 2012
-Five Letterpress prints (framed)
+5 Letterpress prints (framed)
 36.8 x 50.2 cm
 14 1/2 x 19 3/4 in
 Edition of 5 + 2 AP 
