@@ -7,4 +7,4 @@ published: true
 ---
 December 9, 2016, 11:30AM–4:30PM
 
-Ulises is heading up to New Haven for the day on Friday. We'll be participating in the [Odds & Ends Art Book Fair](http://artgallery.yale.edu/calendar/events/book-fair-odds-and-ends-art-booksbook-arts-today){:target="_blank"} hosted by Yale University Art Gallery.
+Ulises is heading to New Haven for the day to participate in the [Odds & Ends Art Book Fair](http://artgallery.yale.edu/calendar/events/book-fair-odds-and-ends-art-booksbook-arts-today){:target="_blank"} hosted by Yale University Art Gallery.
