@@ -10,7 +10,7 @@ tags:
 
 February 11, 2017 through May 14, 2017
 
-In this quarter Ulises considers intimacy through a close-knit constellation of topics ranging from proximity and privacy to love, friendship, sex, and sexuality. Through a series of programs and explorations, Ulises seeks to offer a space for artists, thinkers, and communities of care to discuss and employ affect, empathy, and love-based politics. Engaging notions of inclusion and belonging over a period three months, this season will address and interrogate our role as social and civic participants. Artist Sharon Hayes, scholar Lauren Berlant, and independent publishing imprint Badlands Unlimited provide principal contributions, with additional contributors extending these ideas and communities. 
+In this quarter Ulises considers intimacy through a close-knit constellation of topics, ranging from proximity and privacy to love, friendship, sex, and sexuality. Through a series of programs and explorations, Ulises seeks to offer a space for artists, thinkers, and communities of care to discuss and employ affect, empathy, and love-based politics, interrogating our role as social and civic participants and engaging notions of inclusion and belonging. Artist Sharon Hayes, scholar Lauren Berlant, and independent publishing imprint Badlands Unlimited provide principal contributions, with additional contributors extending these ideas and communities over a period of three months. 
 
 ## Contributors
 
@@ -23,7 +23,7 @@ In this quarter Ulises considers intimacy through a close-knit constellation of 
 14 1/2 x 19 3/4 in
 Edition of 5 + 2 AP 
 
-In addition to "May 1st," Hayes presents a new public work entitled, "Beyond the moon is Lesbos, you told me", a series of texts posted in public space in Philadelphia that addresses both the present political moment and the linguistic and psychic terrain of the outburst.
+In addition to "May 1st," Hayes presents a new public work entitled, "Beyond the moon is Lesbos, you told me," a series of texts posted in public space in Philadelphia addressesing both the present political moment and the linguistic and psychic terrain of the outburst.
 
 ### Badlands Unlimited, "New Lovers"
 
