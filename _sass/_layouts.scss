@@ -201,7 +201,7 @@ header.global-header {
     background-color: $bodyColour;
     min-width: 49.5vw;
     margin-left: -4.5rem;
-    padding: 0 4.5rem 5px 4.5rem;
+    padding: 0 4.5rem 0 4.5rem;
     max-height: 0;
     overflow: hidden;
     @include transdefaults(max-height .5s ease-in 0s);
