@@ -28,7 +28,7 @@ In addition to "May 1st," Hayes presents a new public work entitled, "Beyond the
 
 ### Badlands Unlimited, "New Lovers"
 
-A paperback erotica fiction series inspired by Maurice Girodias’s legendary Olympia Press, Badland’s "New Lovers" series features the raw and uncut writings of authors new to the erotica genre. Each novella in the "New Lovers" series is an independent story of about 12,000-18,000 words in length with its own unique take on relationships, intimacy, and sex, as well as the complexities that bedevil contemporary life and culture today. 
+A paperback erotica fiction series inspired by Maurice Girodias’s legendary Olympia Press, Badlands Unlimited's "New Lovers" series features the raw and uncut writings of authors new to the erotica genre. Each novella in the "New Lovers" series is an independent story of about 12,000-18,000 words in length with its own unique take on relationships, intimacy, and sex, as well as the complexities that bedevil contemporary life and culture today. 
 
 - Wednesday Black, “How To Train Your Virgin”
 - Lilith Wes, “We Love Lucy” 
