@@ -9,7 +9,11 @@ layout: default
 
     <div class="column typeset column--left" id="left">    
 
-        {% include header-left.html %}
+        <header class="site-header left" role="banner">   
+            <a class="site-title" href="{{ "/" | relative_url}}">
+                  <h1>ulises<span>.us</span></h1>
+            </a>
+        </header>
 
         {% for post in postsLeft %}
             {% if post.tags contains 'sticky' %}    
@@ -27,9 +31,7 @@ layout: default
 
     <div class="column typeset column--right" id="right">
 
-        {% include header-right.html %}
-
-        {% include about.html %}
+        {% include header.html %}
 
         {% for post in postsRight %}
             {% if post.tags contains 'sticky' %}    

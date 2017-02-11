@@ -14,9 +14,6 @@
     src: url('../font/TimesNRSevenMT-Regular.woff') format('woff');
 }
 
-// Import Neat partials.
-@import "neat/neat";
-
 // Import Sassline partials.
 @import "sassline/sassline-variables";
 @import "sassline/sassline-base/modular-scale";
@@ -29,6 +26,9 @@
 @import "sassline/modules/header";
 @import "sassline/modules/footer";
 @import "sassline/modules/show-grid";
+
+// Import Neat partials.
+@import "neat/neat";
 
 // Import Perfect Scrollbar
 

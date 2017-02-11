@@ -2,6 +2,7 @@ var gulp = require('gulp'),
     browserify = require('browserify'),
     source = require('vinyl-source-stream'),
     buffer = require('vinyl-buffer'),
+    jshint = require('gulp-jshint'),
     cp = require('child_process').exec,
     uglify = require('gulp-uglify'),
     bs = require('browser-sync').create();
@@ -32,8 +33,9 @@ gulp.task('js', function(){
         debug: true
     }).bundle()
         .pipe(source('main.min.js'))
-        .pipe(buffer())
-        .pipe(uglify())
+        .pipe(jshint())
+        // .pipe(buffer())
+        // .pipe(uglify())
         .pipe(gulp.dest(src + '/js'));
 });
 

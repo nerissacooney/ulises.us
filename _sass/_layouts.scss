@@ -1,3 +1,7 @@
+@mixin border {
+    border: 5px solid #0ff;
+}
+
 @mixin transdefaults($params) {
     transition: $params;
     -webkit-transition: $params;
@@ -5,14 +9,7 @@
     -o-transition: $params;
 }
 
-body {
-
-    background-color: $bodyColour;
-
-    @include media-query($on-laptop){
-        background-color: $bodyColour;
-    }
-}
+$col-padding: 4.5rem;
 
 .typeset p {
     text-indent: 5rem;
@@ -26,22 +23,75 @@ body {
     display: block;
 }
 
+.main-wrapper {
+
+    @include outer-container(100%);
+
+    background-color: $bodyColour;
+
+    @include media-query($on-laptop){
+        background-color: $backgroundColour;
+    }
+}
 
 // * * * * * Home Page Elements * * * * *
 
+// General column content
 
-// Both column headers
+.column {
 
-header.global-header {
+    @include span-columns(6);
+    background-color: $backgroundColour;
+    position: relative;
+    height: 100vh;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0 $col-padding;
 
-    height: 7rem;
+    h2 { text-align: center; }
 
-    @include media-query($on-laptop){
+    @include media-query($on-palm){
+        @include outer-container(100%);
+        @include span-columns(12);
+        position: inherit;
         height: auto;
     }
 
-    & a { color: $linkColour;}
-    & a:hover { color: $hoverColour; }
+    @media screen and (min-width: 480px) and (max-width: $on-palm) {
+        padding-top: 0;
+        padding-bottom: 0;
+        padding-left: 2 * $col-padding;
+        padding-right: 2 * $col-padding;
+    }
+
+    @media screen and (max-width: 480px) {
+        padding: 0 1rem;
+    }
+}
+
+.column#right {
+    float: right;
+}
+
+// Both column headers
+
+header.site-header {
+
+    @include span-columns(6 of 6);
+    height: auto;
+    min-height: 10rem;
+
+    & a, & a:hover, & a:hover,
+    & a:focus, & a:visited { 
+        color: $bodyColour;
+        background-image: none;
+        cursor: pointer;
+    }
+
+    & a:hover { 
+        color: $hoverColour; 
+    }
 
     & a.site-title h1 {
 
@@ -55,134 +105,55 @@ header.global-header {
         font-weight: 300;
     }
 
-    & ul { 
-        list-style: none;
-        padding-left: 0;
-        @include span-columns(6 of 6);
+}
 
-        @media screen and (max-width:1100px){
-            @include span-columns(6 of 12);
-        }
 
-        @include media-query($on-palm){
-            display: none;
-        }
+header.site-header .info-wrapper{
 
-        & li:nth-child(2):hover {
-            color: $hoverColour;
-        }
-    }
+    @include row();
 
-    & li {
-        display: inline-block;
+    & div {
+
         @include span-columns(3 of 6);
-        float: left;
         font-family: "Times New Roman Seven", Times, serif;
         font-size: 1.5rem;
         font-weight: 300;
         margin-top: 1rem;
-        text-align: center;
-    }
 
-    & li:nth-child(2) {
-        text-align: center;
+        @include media-query($on-palm){
+            @include span-columns(12);
+        }
+
+        & p { 
+            text-align: center;
+            text-indent: 0;
+        }
     }
 
     & span { font-family:  Lars, "Helvetica Neue", sans-serif; }
-}
 
-// Responsive about paragraph
+    @media screen and (max-width: $on-palm) {
+    
+        & p { margin: 0; }
 
-.about { 
-    background-color: $backgroundColour; 
-    clear: both;
-
-    & p { padding-top: 1.5rem; }
-
-    & hr.big { display: block; }
-    & hr.small { display: none; }
-
-    @include media-query($on-palm){
-
-        & hr.big { display: none; }
-        & hr.small { display: block; }
-
-        & p { 
-            padding-top: 0; 
-            padding-bottom: 2rem; 
+        & div:first-child p {
+            margin-top: $col-padding/2;
+        }
+        & #info-button { 
+            margin-bottom: $col-padding/2; 
         }
     }
 }
 
-#right div.about:first-of-type {
+header.site-header {
 
-    display: block;
-    @include media-query($on-palm){
-            display: none;
-    }
-}
-
-#right article + div.about{
-
-    display: none;
-    @include media-query($on-palm){
-        display: block;
-    }
-}
-
-// Left column headers
-
-#left header ul {
-    display: none;
-    text-align: center;
-    padding-left: 0;
-
-    & li {
-        margin-left: 0;
-        width: 100%;
+    & .slide .info-wrapper p {
+        margin: 0;
     }
 
-    @include media-query($on-palm){
-        display: block;
-    }
-}
+    & .slide div.info-wrapper:nth-child(2) {
+        margin-bottom: 4rem;
 
-// General column content
-
-.row-wrapper {
-    @include row();
-
-    &.outer-container {
-        @include outer-container;
-    }
-}
-
-.column {
-
-    @include span-columns(6);
-    @include shift(0);
-    background-color: $backgroundColour;
-    position: relative;
-    height: 100vh;
-    overflow-y: scroll;
-    overflow-x: hidden;
-    padding: 0 4.5rem;
-
-    h2 { text-align: center; }
-
-    @include media-query($on-palm){
-        @include span-columns(12);
-        @include shift(0);
-        position: inherit;
-        height: auto;
-    }
-}
-
-.column#right {
-    @include omega;
-
-    @include media-query($on-palm){
-        @include shift(0);
     }
 }
 
@@ -199,35 +170,32 @@ header.global-header {
 .slide .expanded {
     color: $backgroundColour;
     background-color: $bodyColour;
+    position: relative;
+    left: -$col-padding;
     min-width: 49.5vw;
-    margin-left: -4.5rem;
-    padding: 0 4.5rem 0 4.5rem;
+    margin-bottom: $col-padding/2;
+    padding: 0 $col-padding;
     max-height: 0;
     overflow: hidden;
     @include transdefaults(max-height .5s ease-in 0s);
     
     & > p { clear: both; }
 
-    & > p:last-child { padding-bottom: 4rem; }
+    & > p:last-child { padding-bottom: $col-padding/2; }
 
-    & div { 
-        width: 50%;
-        float: left;
-        display: inline-block;
-        text-align: center;
-        margin: 2rem 0 4rem 0;
-
-        & > p {
-            padding: 0;
-            margin: 0;
-            text-indent: 0;
-            font-size: 1.5rem;
-            line-height: 3rem;
-        }
-
-        & p span { font-family:  Lars, "Helvetica Neue", sans-serif; }
+    @media screen and (min-width: 480px) and (max-width: $on-palm) {
+        width: 98vw;
+        left: -2 * $col-padding;
+    }
 
 
+    @media screen and (max-width: 480px) {
+
+        min-width: 98vw;
+        left: -1rem;
+        padding: 0 1rem;
+    
+        & > p:last-child { padding-bottom: 1rem; }
     }
 }
 
@@ -249,10 +217,18 @@ article.post {
     margin-bottom: 4rem;
 }
 
-article.post div.post-content ol li p{
-    padding-top: .1rem;
-    text-indent: 0;
-    padding-left: .5rem;
+article.post div.post-content {
+
+    & ul {
+        list-style: decimal;
+    }
+
+    & ol li, & ul li {
+
+        padding-top: .75rem;
+        text-indent: 0;
+        padding-left: .5rem;
+    }
 }
 
 // Perfect scrollbar overrides

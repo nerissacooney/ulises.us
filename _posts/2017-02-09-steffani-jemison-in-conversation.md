@@ -1,14 +1,13 @@
 ---
 layout: post
 date: '2016-12-02 17:39 -0500'
+event_date: Friday, December 2, 2016, 6PM
 published: true
 title: Steffani Jemison in Conversation
 categories: left
 tags:
   - active-voice
 ---
-Friday, December 2, 2016, 6 PM
-
 ![Steffani Jemison Event.jpg]({{site.baseurl}}/assets/img/Steffani Jemison Event.jpg)
 
 
