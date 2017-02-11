@@ -191,7 +191,7 @@ header.site-header {
 
     @media screen and (max-width: 480px) {
 
-        min-width: 98vw;
+        min-width: 100vw;
         left: -1rem;
         padding: 0 1rem;
     
@@ -200,7 +200,7 @@ header.site-header {
 }
 
 .slide .expanded.show {
-    max-height: 50rem;
+    max-height: 60rem;
     @include transdefaults(max-height .5s ease-out 0s)
 }
 
