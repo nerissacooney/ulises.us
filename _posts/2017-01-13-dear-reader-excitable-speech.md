@@ -1,6 +1,6 @@
 ---
 date: '2017-01-13 22:34 -0500'
-event_date: Tuesday, January 17, 2017, 6:30PM–8PM
+event_date: Tuesday, January 17, 2017, 6:30–8PM
 layout: post
 published: true
 title: 'Dear Reader: Excitable Speech'
