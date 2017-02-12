@@ -177,7 +177,7 @@ header.site-header {
     padding: 0 $col-padding;
     max-height: 0;
     overflow: hidden;
-    @include transdefaults(max-height .5s ease-in 0s);
+    @include transdefaults(max-height .3s ease-out 0s);
     
     & > p { clear: both; }
 
@@ -201,7 +201,7 @@ header.site-header {
 
 .slide .expanded.show {
     max-height: 60rem;
-    @include transdefaults(max-height .5s ease-out 0s)
+    @include transdefaults(max-height .3s ease-out 0s)
 }
 
 h2.post-title {

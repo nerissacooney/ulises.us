@@ -26,12 +26,18 @@
         <!-- <p>@ulisesbooks</p>                 -->
     </div>
 </div>
-<p>
+
+
+    {% assign info = site.posts | where: 'tags', 'info' %}
+
+    {{ info[0].content }}
+
+<!-- <p>
     Ulises is a bookshop and curatorial platform dedicated to artists&#8217; books and independent art publications. Performing the model of a quarterly periodical, each curatorial season invites contributors to present publications, workshops, lectures, artworks, and collaborations in response to a given theme.
 </p>
 <p>
     Ulises was founded in 2016 by Nerissa Cooney, Lauren Downing, Joel Evey, Kayla Romberger, Gee Wesley, and Ricky Yanas. Additional contributors include landlord Tim Belknap and professional Nabil Kashyap.
-</p>
+</p> -->
 </div>
 
 <div class="excerpted">
