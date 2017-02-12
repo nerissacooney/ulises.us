@@ -1,16 +1,11 @@
 ---
 layout: post
-date: '2017-02-08 01:22 -0500'
-event_date: February 11, 2017, 6–9PM
-published: true
-title: Launch Party Quarter No. 2 Intimacy
-categories: left
-event_date: 'February 11, 2017, 6–9PM'
-tags:
-  - intimacy
+date: '2017-02-12 18:19 -0500'
+published: false
+title: Untitled
 ---
 
-![15bd428._HAYESbd428.jpg]({{site.baseurl}}/assets/img/15bd428._HAYESbd428.jpg)
+![15. HAYES-2.jpg]({{site.baseurl}}/assets/img/15. HAYES-2.jpg)
 
 
 [Join the party](https://www.facebook.com/events/604532113075419/){:target="_blank"}
