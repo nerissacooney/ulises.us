@@ -1,8 +1,9 @@
 ---
 layout: post
 date: '2017-02-12 18:19 -0500'
-published: false
+published: true
 title: Untitled
+categories: left
 ---
 
 ![15. HAYES-2.jpg]({{site.baseurl}}/assets/img/15. HAYES-2.jpg)
