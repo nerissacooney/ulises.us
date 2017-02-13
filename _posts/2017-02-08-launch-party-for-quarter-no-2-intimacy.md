@@ -4,6 +4,9 @@ date: '2017-02-12 18:19 -0500'
 published: true
 title: Launch Party Quarter No 2 Intimacy
 categories: left
+tags:
+  - intimacy
+event_date: 'Saturday, February 11, 2017'
 ---
 
 ![15. HAYES-2.jpg]({{site.baseurl}}/assets/img/15. HAYES-2.jpg)
