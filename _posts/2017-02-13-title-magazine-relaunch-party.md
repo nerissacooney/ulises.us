@@ -4,6 +4,7 @@ date: '2017-02-13 9:39 -0500'
 published: true
 title: 'Title Magazine, Relaunch Party'
 categories: left
+event_date: 'Saturday, February 18, 2PM–4PM'
 ---
 ![TitleLaunch.jpg]({{site.baseurl}}/assets/img/TitleLaunch.jpg)
 
