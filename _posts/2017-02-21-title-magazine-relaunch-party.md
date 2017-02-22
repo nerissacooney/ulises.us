@@ -1,11 +1,9 @@
 ---
 layout: post
-date: '2017-02-21 21:43 -0500'
+date: '2017-02-21'
 published: true
 title: Title Magazine Relaunch Party
 categories: left
-tags:
-  - sticky
 ---
 ![TitleLaunch.jpg]({{site.baseurl}}/assets/img/TitleLaunch.jpg)
 
