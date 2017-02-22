@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2017-02-12 18:19 -0500'
+date: '2017-02-10 18:19 -0500'
 published: true
 title: Launch Party Quarter No 2 Intimacy
 categories: left
