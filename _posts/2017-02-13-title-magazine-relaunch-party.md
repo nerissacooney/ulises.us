@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2017-02-10 9:39 -0500'
+date: '2017-02-20 9:39 -0500'
 published: true
 title: 'Title Magazine, Relaunch Party'
 categories: left
