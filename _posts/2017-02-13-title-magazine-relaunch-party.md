@@ -1,10 +1,10 @@
 ---
 layout: post
-date: '2017-02-13 9:39 -0500'
+date: '2017-02-10 9:39 -0500'
 published: true
 title: 'Title Magazine, Relaunch Party'
 categories: left
-event_date: 'Saturday, February 21, 2PM–4PM'
+event_date: 'Saturday, February 26, 2PM–4PM'
 ---
 ![TitleLaunch.jpg]({{site.baseurl}}/assets/img/TitleLaunch.jpg)
 
