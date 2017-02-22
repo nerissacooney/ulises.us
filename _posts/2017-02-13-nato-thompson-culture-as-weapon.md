@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2017-02-09'
+date: '2017-02-12'
 published: true
 title: 'Nato Thompson: Culture As Weapon'
 categories: left
