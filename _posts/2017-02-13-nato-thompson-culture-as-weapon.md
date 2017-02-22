@@ -1,10 +1,12 @@
 ---
 layout: post
-date: '2017-02-10 11:24 -0500'
+date: '2017-02-09 11:24 -0500'
 published: true
 title: 'Nato Thompson: Culture As Weapon'
 categories: left
 event_date: 'Sunday, February 19, 2017, 4PM'
+tags:
+  - intimacy
 ---
 ![Nato-3.jpg]({{site.baseurl}}/assets/img/Nato-3.jpg)
 
