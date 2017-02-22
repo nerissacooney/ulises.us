@@ -5,8 +5,6 @@ published: true
 title: 'Nato Thompson: Culture As Weapon'
 categories: left
 event_date: 'Sunday, February 19, 2017, 4PM'
-tags:
-  - intimacy
 ---
 ![Nato-3.jpg]({{site.baseurl}}/assets/img/Nato-3.jpg)
 
