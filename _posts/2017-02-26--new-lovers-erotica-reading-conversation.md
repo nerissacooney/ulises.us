@@ -10,7 +10,6 @@ tags:
 ---
 ![badlands_no5_i_would_do_anything_for_love_2.jpg]({{site.baseurl}}/assets/img/badlands_no5_i_would_do_anything_for_love_2.jpg)
 
-
 Authors Al Bedell and Larissa Pham will be reading excerpts from their short erotic fiction published by Badlands Unlimited and part of the "New Lovers" series. Each story has its own unique take on relationships, intimacy, and sex, as well as the complexities that bedevil contemporary life and culture today.
 
 Inspired by Maurice Girodias’ legendary Olympia Press, "New Lovers" features the raw and uncut writings of authors new to the erotic romance genre. Each story has its own unique take on relationships, intimacy, and sex, as well as the complexities that bedevil contemporary life and culture today.
@@ -20,3 +19,5 @@ Al Bedell is a writer who splits her time between New York and Los Angeles. Her 
 
 [Larissa Pham, “Fantasian”](https://badlandsunlimited.com/books/new-lovers-9-fantasian)
 Larissa Pham is a writer living in Brooklyn. She has written for Adult, Guernica, The Nation and Nerve. Pham studied painting and art history at Yale University.
+
+[Join the intimate evening](https://www.facebook.com/events/326139811117166/) – and start your Saturday off right. There will be drinks and light refreshments for you to enjoy. 
