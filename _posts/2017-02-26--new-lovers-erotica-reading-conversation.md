@@ -20,4 +20,4 @@ Al Bedell is a writer who splits her time between New York and Los Angeles. Her 
 [Larissa Pham, “Fantasian”](https://badlandsunlimited.com/books/new-lovers-9-fantasian)
 Larissa Pham is a writer living in Brooklyn. She has written for Adult, Guernica, The Nation and Nerve. Pham studied painting and art history at Yale University.
 
-[Join the intimate evening](https://www.facebook.com/events/326139811117166/) – and start your Saturday off right. There will be drinks and light refreshments for you to enjoy. 
+[Join the intimate evening](https://www.facebook.com/events/326139811117166/) – there will be drinks and light refreshments.
