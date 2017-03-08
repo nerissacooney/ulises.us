@@ -29,9 +29,11 @@ _Love, Optimized_ is a partnership between Ernesto D. Morales and Shelly Ronen.
 
 For richer details, visit [objectsolutions.net/love](http://objectsolutions.net/love)
 
-For more intimate contact, join our mailing list at [objectsolutions.net/mail](http://www.objectsolutions.net/mail)
+For more intimate contact, join our mailing list at 
+[objectsolutions.net/mail](http://www.objectsolutions.net/mail)
 
-See the workshop overview + images: [How to Design the Future of Love](http://www.objectsolutions.net/blog/workshop-designing-future-love/)
+See the workshop overview + images: 
+[How to Design the Future of Love](http://www.objectsolutions.net/blog/workshop-designing-future-love/)
  
 See what participants have devised:
 - [Surveillant clothing and immersive dreams](http://www.objectsolutions.net/blog/objects-of-affection-episode-1/)
