@@ -16,7 +16,7 @@ Limited capacity: Sign up at [loveoptimizedworkshop.eventbrite.com](https://love
 
 Pop-Up Show: Saturday 5pm–7pm + Sunday 12–6pm
 Features inventions blueprinted at the workshop
-Open to all: [RSVP for the Saturday Pop-Up](https://www.facebook.com/events/800056596808318/)
+Open to all: [RSVP here for the Saturday Pop-Up Reception](https://www.facebook.com/events/800056596808318/)
 
 Welcome to a world of problems, solved.
  
