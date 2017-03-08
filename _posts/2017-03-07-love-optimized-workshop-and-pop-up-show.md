@@ -11,14 +11,11 @@ event_date: 'Saturday, March 18, 2017'
 ![love-optimized-workshop-animation.gif]({{site.baseurl}}/assets/img/love-optimized-workshop-animation.gif)
 
 
-
 Workshop: Saturday 2–5pm
 Limited capacity: Sign up at [loveoptimizedworkshop.eventbrite.com](https://loveoptimizedworkshop.eventbrite.com)
 
 Pop-Up Show: Saturday 5pm–7pm + Sunday 12–6pm
 Open to all: Features inventions blueprinted at the workshop
-
----
 
 Welcome to a world of problems, solved.
  
