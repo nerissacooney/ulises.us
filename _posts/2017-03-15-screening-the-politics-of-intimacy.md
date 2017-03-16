@@ -18,5 +18,3 @@ These two feminist works exemplify the intimacy and immediacy of emergent video 
 [International House Philadelphia](http://ihousephilly.org/about)
 
 [Moore College of Art and Design](http://moore.edu/)
-
-
