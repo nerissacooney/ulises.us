@@ -5,6 +5,7 @@ published: true
 title: 'Love, Optimized: Workshop and Pop-Up Show'
 categories: left
 tags:
+  - sticky
   - intimacy
 event_date: 'Saturday, March 18, 2017'
 ---
@@ -40,5 +41,3 @@ See what participants have devised:
 - [Surveillant clothing and immersive dreams](http://www.objectsolutions.net/blog/objects-of-affection-episode-1/)
 - [Precoital pinpricks and the foul stench of breakups](http://www.objectsolutions.net/blog/objects-of-affection-episode-2/)
 - [Emotional dinnerware and connected underwear](http://www.objectsolutions.net/blog/objects-of-affection-episode-3/)
-
-
