@@ -6,6 +6,7 @@ title: 'Screening: The Politics of Intimacy'
 tags:
   - intimacy
 event_date: 'Tuesday, March 21, 2017, 6:30 – 8:30PM'
+categories: left
 ---
 ![politics-of-intimacy.jpg]({{site.baseurl}}/assets/img/politics-of-intimacy.jpg)
 
