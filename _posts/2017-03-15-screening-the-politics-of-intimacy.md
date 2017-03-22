@@ -4,7 +4,6 @@ date: '2017-03-15 22:06 -0400'
 published: true
 title: 'Screening: The Politics of Intimacy'
 tags:
-  - sticky
   - intimacy
 event_date: 'Tuesday, March 21, 2017, 6:30 – 8:30PM'
 categories: left
