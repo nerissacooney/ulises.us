@@ -1,10 +1,10 @@
 ---
 layout: post
 date: '2017-03-22 22:53 -0400'
-published: false
+published: true
 title: '"Hyper Normalization" Screening'
 categories: left
-event_date: 'Friday, March 31, 2017 7:30PM'
+event_date: 'Friday, March 31, 2017, 7:30PM'
 ---
 ![TITLE CARD.png]({{site.baseurl}}/assets/img/TITLE CARD.png)
 
