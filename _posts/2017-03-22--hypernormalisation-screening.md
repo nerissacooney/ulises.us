@@ -1,10 +1,8 @@
 ---
 layout: post
 date: '2017-03-22 22:53 -0400'
-published: false
+published: true
 title: '"Hyper Normalization" Screening'
-tags:
-  - intimacy
 categories: left
 event_date: 'Friday, March 31, 2017 7:30PM'
 ---
