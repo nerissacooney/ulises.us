@@ -2,7 +2,7 @@
 layout: post
 date: '2017-03-22 23:08 -0400'
 published: true
-title: Dear Reader with"Ban en Banlieu"
+title: 'Dear Reader: "Ban en Banlieu"'
 categories: left
 tags:
   - intimacy
