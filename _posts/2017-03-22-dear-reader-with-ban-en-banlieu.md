@@ -7,6 +7,7 @@ categories: left
 tags:
   - intimacy
 ---
+
 ![cover-ban-en-banlieue.jpg]({{site.baseurl}}/assets/img/cover-ban-en-banlieue.jpg)
 
 
@@ -16,6 +17,6 @@ Join Ulises for a reading group discussion and writing session led by Becky Huff
 
 ["Ban en Banlieu" PDF](https://drive.google.com/file/d/0B_P5glJ74tP7djN1NUNib2R5ZUE/view)
 
-Bring a notepad and pen in order to participate in writing exercises that draw upon the book's themes. We are a safe and welcoming space for people of all races, classes, faiths, genders, sexualities, abilities, and places of origin.
+Bring a notepad and pen in order to participate in writing exercises that draw upon the book's themes. As the discussion will partly be discussing interpersonal violence, please help us maintain a safe space by being mindful and considerate of others.
 
 Becky Huff Hunter is a writer and editor, who has recently written on Philadelphia's contemporary art in "Artforum," "Frieze," and "Art Papers." She previously organized the Writing Art and Life reading/writing groups at the Institute of Contemporary Art and Kelly Writers House, University of Pennsylvania, where she is also a trained Anti-Violence Advocate.
