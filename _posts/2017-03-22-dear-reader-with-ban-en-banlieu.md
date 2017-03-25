@@ -6,6 +6,7 @@ title: Dear Reader with"Ban en Banlieu"
 categories: left
 tags:
   - intimacy
+event_date: 'Tuesday, March 28, 2017, 6:30PM – 8:30PM'
 ---
 
 ![cover-ban-en-banlieue.jpg]({{site.baseurl}}/assets/img/cover-ban-en-banlieue.jpg)
