@@ -5,6 +5,8 @@ published: true
 title: '"Hyper Normalization" Screening'
 categories: left
 event_date: 'Friday, March 31, 2017, 7:30PM'
+tags:
+  - sticky
 ---
 ![TITLE CARD.png]({{site.baseurl}}/assets/img/TITLE CARD.png)
 
