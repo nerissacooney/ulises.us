@@ -22,4 +22,6 @@ Stereo audio, 12'
 
 [RSVP to the screening](https://www.facebook.com/events/633462733505988/)
 
+Image: Lawrence Abu Hamdan, "Language Gulf in the Shouting Valley," 2013. Installation view at Kunsthalle St Gallen. Photo by Stefan Jaggi
+
 
