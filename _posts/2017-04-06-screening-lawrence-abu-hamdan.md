@@ -18,10 +18,7 @@ Digital video, 14'
 Lawrence Abu Hamdan, "Saydnaya (the missing 19db)," 2017, 
 Stereo audio, 12'
 
-[About [Lawrence Abu Hamdan]](http://lawrenceabuhamdan.com/info/)
-
+[About Lawrence Abut Hamdan](http://lawrenceabuhamdan.com/info/)
 [RSVP to the screening](https://www.facebook.com/events/633462733505988/)
 
 Image: Lawrence Abu Hamdan, "Language Gulf in the Shouting Valley," 2013. Installation view at Kunsthalle St Gallen. Photo by Stefan Jaggi
-
-
