@@ -11,7 +11,7 @@ tags:
 
 ![fall-of-communism.png]({{site.baseurl}}/assets/img/fall-of-communism.png)
 
-Artist and writer Hannah Black. Black, will read via Skype from a selection of her recent writings. As a contributor to Active Voice, Hannah Black presents recent video works — including “Intensive Care/Hot New Track,” “Fall of Communism,” and “My Bodies” – that consider pop vocals as a space to explore violence, power, and pluralism, which considers pop vocals as a space to explore violence, power, and pluralism.
+Artist and writer Hannah Black. Black, will read via Skype from a selection of her recent writings. As a contributor to Active Voice, Hannah Black presents recent video works — including “Intensive Care/Hot New Track,” “Fall of Communism,” and “My Bodies” – that consider pop vocals as a space to explore violence, power, and pluralism.
 
 Image: Hannah Black, "Fall of Communism," 2014, video still
 
