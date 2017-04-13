@@ -8,10 +8,7 @@ tags:
 categories: left
 event_date: 'Saturday, April 15, 2017, 4PM–6PM'
 ---
-![TTR Issue 10 (front cover).jpg]({{site.baseurl}}/assets/img/TTR Issue 10 (front cover).jpg)
-
-![TTR-Issue-10c.gif]({{site.baseurl}}/assets/img/TTR-Issue-10c.gif)
-
+![TTR-Issue-10d.gif]({{site.baseurl}}/assets/img/TTR-Issue-10d.gif)
 
 Please join Ulises this Saturday for the launch of the newest issue of The Third Rail as well as a series of screenings connected to Issue 10 and Ulises' quarterly theme, Intimacy. [Jonathan Thomas](http://www.jtoffscreen.com) will give a brief introduction to the screenings and the issue. Drinks and light refreshments will be available. [RSVP](https://www.facebook.com/events/392704901114356/)
 
