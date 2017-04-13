@@ -10,7 +10,7 @@ event_date: 'Saturday, April 15, 2017, 7PM–9PM'
 ---
 ![TTR-Issue-10d.gif]({{site.baseurl}}/assets/img/TTR-Issue-10d.gif)
 
-Please join Ulises this Saturday for the Philadelphia launch of the newest issue of The Third Rail. The launch will feature a short screening program of videos connected to Issue 10 and Ulises' quarterly theme, Intimacy. Jonathan Thomas, Director of The Third Rail, will give a brief introduction. Drinks and light refreshments will be available.
+Please join Ulises this Saturday for the Philadelphia launch of the newest issue of The Third Rail. The launch will feature a short screening program of videos connected to Issue 10 and Ulises' quarterly theme, Intimacy. Jonathan Thomas, Editor of The Third Rail, will give a brief introduction. Drinks and light refreshments will be available.
 
 At 8pm we will screen a teaser from Adam Khalil and Zack Khalil's second feature film, "Empty Metal," co-directed with Barry James Sweitzer, followed by Mati Diop and Manon Lutanie's "Liberian Boy" (2015), and two shorts by Alexander Kluge: "BLIND LOVE / Jean-Luc Godard: My mother had only seen silent films!," and "TSCHAK TSCHAK BOING / Love in a Space Suit" (both 2001). 
 
