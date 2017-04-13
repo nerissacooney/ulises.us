@@ -12,7 +12,6 @@ event_date: 'Saturday, April 15, 2017, 7PM–9PM'
 
 Please join Ulises this Saturday for the launch of the newest issue of The Third Rail as well as a series of screenings connected to Issue 10 and Ulises' quarterly theme, Intimacy. [Jonathan Thomas](http://www.jtoffscreen.com) will give a brief introduction to the screenings and the issue. Drinks and light refreshments will be available. [RSVP](https://www.facebook.com/events/392704901114356/)
 
-Screenings:
 - Adam Khalil and Zack Khalil (co-directed with Barry James Sweitzer), "EMPTY METAL," (5 min teaser)
 - Mati Diop and Manon Lutanie's "Liberian Boy," 2015 (4min)
 - Alexander Kluge's "TSCHAK TSCHAK BOING / Love in a Space Suit," 2001 (11min)
