@@ -4,6 +4,7 @@ date: '2017-04-06 11:57 -0400'
 published: true
 title: 'Screening: Lawrence Abu Hamdan'
 tags:
+  - sticky
   - intimacy
 categories: left
 event_date: 'Friday, April 14, 2017, 7PM – 9PM'
