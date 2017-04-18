@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2017-02-08 01:34 -0500'
-event_date: February 11, 2017 through May 14, 2017
+event_date: 'February 11, 2017 through June 11, 2017'
 published: true
 title: No.2 Intimacy
 categories: right
