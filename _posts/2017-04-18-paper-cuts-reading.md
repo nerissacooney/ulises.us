@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2017-04-18 10:09 -0400'
-published: true
+published: false
 title: 'Paper Cuts Reading '
 event_date: 'Saturday, April 22, 2016, 7PM'
 categories: left
