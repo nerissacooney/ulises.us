@@ -20,3 +20,5 @@ Please find the reading in the following link:
 Jennifer Wilson is a Postdoctoral Fellow in the Department of Slavic Languages and Literatures at the University of Pennsylvania where she is currently working on her first book, "Radical Chastity: Abstinence and the Political Imagination in Nineteenth Century Russia." From 2015-2016, she participated in the Penn Humanities Forum on "Sex." Her writings on literary culture, Russia, and politics have appeared in The New Yorker, The Atlantic, The Los Angeles Review of Books, and Al Jazeera America, among others. You can follow her on Twitter at @JenLouiseWilson.
 
 Svetlana Boym's article "On Diasporic Intimacy: Ilya Kabakov's Installations and Immigrant Homes" is one of the texts included in "Selected Readings on Intimacy," a presentation of books and articles choosen by scholar Lauren Berlant as her contribution to Ulises's curatorial season "Intimacy."
+
+[RSVP for Dear Reader: On Diasporic Intimacy](https://www.facebook.com/events/1896355483973082/) 
