@@ -5,6 +5,8 @@ published: true
 title: 'Paper Cuts Reading '
 event_date: 'Saturday, April 22, 2016, 7PM'
 categories: left
+tags:
+  - sticky
 ---
 ![ULISES CARD3.jpg]({{site.baseurl}}/assets/img/ULISES CARD3.jpg)
 
