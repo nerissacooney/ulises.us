@@ -16,4 +16,3 @@ Readers:
 - Alex Smith
 
 Following the readings there will be a brief discussion moderated by Paper Cuts host, Christopher Kardambikis. A recording of the readings will later be available on the Clocktower Radio archive.
-
