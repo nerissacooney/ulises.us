@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2017-04-18 10:50 -0400'
-published: false
+published: true
 title: 'Dear Reader: On Diasporic Intimacy'
 tags:
   - intimacy
