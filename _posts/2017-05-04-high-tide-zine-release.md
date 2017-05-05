@@ -4,7 +4,9 @@ date: '2017-05-04 20:30 -0400'
 published: true
 title: High Tide Zine Release
 categories: left
-event_date: 'Sunda, May 7, 2017, 4:00–6:00PM'
+event_date: 'Sunday, May 7, 2017, 4:00–6:00PM'
+tags:
+  - intimacy
 ---
 ![18274858_1358834817533416_4529206522363639203_n.jpg]({{site.baseurl}}/assets/img/18274858_1358834817533416_4529206522363639203_n.jpg)
 
