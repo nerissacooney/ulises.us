@@ -4,6 +4,8 @@ date: '2017-05-04 20:15 -0400'
 published: true
 title: Philadelphia Art Book Fair
 categories: left
+tags:
+  - intimacy
 ---
 ![16998808_1089515417860400_7652733978941710275_n-680x680.jpg]({{site.baseurl}}/assets/img/16998808_1089515417860400_7652733978941710275_n-680x680.jpg)
 
