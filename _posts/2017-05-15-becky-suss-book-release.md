@@ -8,7 +8,7 @@ categories: left
 ---
 ![becksuss-book-release.jpg]({{site.baseurl}}/assets/img/becksuss-book-release.jpg)
 
-Join Ulises for a book launch with artist Becky Suss. Enjoy libations, snacks and company celebrating the release of the ICA exhibition catalogue "Beck Suss." 
+Join Ulises for a [book launch](https://www.facebook.com/events/475958902735805/) with artist Becky Suss. Enjoy libations, snacks and company celebrating the release of the ICA exhibition catalogue "Beck Suss." 
 
 In the fall of 2015, Suss presented selections from her most recent body of work in her first solo museum exhibition curated by ICA's Laporte Associate Curator, Kate Kraczon. Released in 2017, the fully illustrated catalogue for this exhibition includes an extended interview of Suss by Kate Kraczon. 
 
