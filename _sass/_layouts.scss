@@ -237,15 +237,15 @@ article.post div.post-content {
 // wrapped in <p> as parsed by markdown, forcing
 // x scroll
 
-.ps-container#left {
+.ps#left {
 
-    .ps-scrollbar-y-rail{ left: 0; }
-    .ps-scrollbar-x-rail{ display: none; }
+    .ps__scrollbar-y-rail{ left: 0; }
+    .ps__scrollbar-x-rail{ display: none; }
 }
 
-.ps-container#right {
+.ps#right {
 
-    .ps-scrollbar-y-rail{ right: 0.2rem; }
-    .ps-scrollbar-x-rail{ display: none; }
+    .ps__scrollbar-y-rail{ right: 0.2rem; }
+    .ps__scrollbar-x-rail{ display: none; }
 
 }

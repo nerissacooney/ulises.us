@@ -4,7 +4,7 @@ $(function() {
 
     var params= {
         minScrollbarLength: 25,
-        maxScrollbarLength: 50,
+        maxScrollbarLength: 25,
         supressScrollX: true
     };
 
@@ -19,8 +19,6 @@ $(function() {
 
     if ($(this).width() < 768) {
 
-        console.log($(this).width());
-
         $('header.left').append(headerInfo.remove());
     }
 
@@ -28,7 +26,6 @@ $(function() {
 
         $(el).on('click',function(e){
 
-            console.log('here');
             var parent = $(e.currentTarget).data('parent');
             $('.' + parent + ' .excerpted').toggleClass('hide');
             $('.' + parent + ' .expanded').toggleClass('show');
