@@ -25,5 +25,4 @@
 
 ```
 
-Repository for ulises.us
-testing hook
+Repository for [ulises.us](http://ulises.us)
