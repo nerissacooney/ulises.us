@@ -10,9 +10,10 @@ categories: right
 
 No. 3 "Migrations" Quarter: July 1 – September 30, 2017
 
+
 ## Contributors
 
 ### Marwa Arsanios
-### Banu Cennetoğlu
 ### Tania Bruguera 
+### Banu Cennetoğlu
 ### Xaviera Simmons
