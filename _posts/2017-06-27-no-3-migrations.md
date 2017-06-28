@@ -13,9 +13,9 @@ tags:
 No. 3 "Migrations" Quarter: July 1 – September 30, 2017
 
 
-## Contributors
+## Contributors:
 
-### Marwa Arsanios
-### Tania Bruguera 
-### Banu Cennetoğlu
-### Xaviera Simmons
+## Marwa Arsanios
+## Tania Bruguera 
+## Banu Cennetoğlu
+## Xaviera Simmons
