@@ -1,3 +1,6 @@
+
+// mixins & constants
+
 @mixin border {
     border: 5px solid #0ff;
 }
@@ -90,7 +93,7 @@ header.site-header {
     }
 
     & a:hover { 
-        color: $hoverColour; 
+        color: $linkColour; 
     }
 
     & a.site-title h1 {
@@ -153,7 +156,6 @@ header.site-header {
 
     & .slide div.info-wrapper:nth-child(2) {
         margin-bottom: 4rem;
-
     }
 }
 
@@ -168,6 +170,7 @@ header.site-header {
 }
 
 .slide .expanded {
+
     color: $backgroundColour;
     background-color: $bodyColour;
     position: relative;
@@ -200,8 +203,76 @@ header.site-header {
 }
 
 .slide .expanded.show {
-    max-height: 60rem;
+
+    // height for expanded info panel
+
+    max-height: 65rem;
+
+    @media screen and (max-width: 480px) {
+        max-height: 100rem;
+    }
+
+
+    // mailchimp embed form
+    & div#mc_embed_signup {
+    
+        width: 75%;
+        float: left;
+        margin-left: 12.5%;
+
+        label { display: none; }
+        
+        & div.mc-field-group,
+        & div.clear {
+        
+            display: inline;
+            float: left;
+
+        }
+
+        // mc input field
+        & div.mc-field-group {
+
+            width: 90%;
+            margin-bottom: 1.55rem;
+
+            & input {
+                width: 100%;
+                height: 2.75rem;
+                color: $backgroundColour;
+                border: 2px solid $backgroundColour;
+                padding-left: 1rem;
+            }
+
+            & input::placeholder {
+                font-family: unquote(map-get($headingtype, font-family));
+                font-style: normal;
+                font-weight: map-get($bodytype, regular);
+            }
+       }
+
+        // mc input button
+        & div.clear { width: 10%; float: right; }
+        & div.clear input.button {
+
+            height: 2.75rem;
+            background-color: $backgroundColour;
+            color: $bodyColour;
+            font-size: 2rem;
+            padding: 0 0.3rem;
+            border: unset;
+            border-radius: 1px;
+            margin: 0;
+        }
+
+        & div.clear input.button:hover {
+            color: $linkColour;
+        }
+    }
+
     @include transdefaults(max-height .3s ease-out 0s)
+
+
 }
 
 h2.post-title {
