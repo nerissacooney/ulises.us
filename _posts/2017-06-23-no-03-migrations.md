@@ -14,4 +14,4 @@ Please join Ulises in celebrating the launch of our third quarterly season, "Mig
 
 “Migrations” considers how artists, thinkers, and whole communities engage narratives of movement and traversal, sanctuary and refuge. Through contributions from artists [Marwa Arsanios](http://www.mor-charpentier.com/artist/marwa-arsonios/), [Tania Bruguera](http://www.taniabruguera.com/cms/), [Banu Cennetoğlu](http://rodeo-gallery.com/artists/banu-cennetoglu/), and [Xaviera Simmons](https://davidcastillogallery.com/artist/xaviera-simmons/), Ulises will explore the poetics of migration and trouble our notions of origin and boundaries. 
 
-Image: Xaviera Simmons, "On Sculpture #2," 2011. Chromogenic color print, 40 x 50 in. Edition of 3
+Image: Xaviera Simmons, "On Sculpture #2," 2011. Chromogenic color print, 40 x 50 in. Edition of 3. Courtesy David Castillo Gallery
