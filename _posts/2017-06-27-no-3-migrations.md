@@ -12,7 +12,8 @@ event_date: ' July 1 — October 1, 2017'
 
 ## Contributors
 
-###Marwa Arsanios
+### Marwa Arsanios
+
 “Falling Is Not Collapsing, Falling Is Extending,” 2016
 Digital video, color, sound
 22:34 min.
@@ -21,13 +22,16 @@ Digital video, color, sound
 Pen on paper
 Dimensions variable
 
-###Banu Cennetoğlu
+### Banu Cennetoğlu
+
 “The List” is a document that contains the information of known refugees, asylum seekers, and migrants who have died within, or on the borders of Europe since 1993. The data is compiled and updated each year by UNITED for Intercultural Action. Since 2006, in collaboration with art workers and institutions, Banu Cennetoğlu maintains up-to-date and translated versions of “The List” for public display and dissemination.
 
 ###Tania Bruguera
+
 "Selected Readings on Migrations"
 
-###Xaviera Simmons
+### Xaviera Simmons
+
 “Superunknown (Alive In The),” 2010
 42 C-prints mounted on sintra with brace
 20 x 30 in.
