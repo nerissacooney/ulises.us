@@ -242,6 +242,7 @@ header.site-header {
                 color: $backgroundColour;
                 border: 2px solid $backgroundColour;
                 padding-left: 1rem;
+                border-radius: 0px;
             }
 
             & input::placeholder {
