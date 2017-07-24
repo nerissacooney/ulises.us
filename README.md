@@ -26,5 +26,3 @@
 ```
 
 Repository for [ulises.us](http://ulises.us)
-
-

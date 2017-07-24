@@ -26,7 +26,7 @@ Dimensions variable
 
 “The List” is a document that contains the information of known refugees, asylum seekers, and migrants who have died within, or on the borders of Europe since 1993. The data is compiled and updated each year by UNITED for Intercultural Action. Since 2006, in collaboration with art workers and institutions, Banu Cennetoğlu maintains up-to-date and translated versions of “The List” for public display and dissemination.
 
-###Tania Bruguera
+### Tania Bruguera
 
 "Selected Readings on Migrations"
 
