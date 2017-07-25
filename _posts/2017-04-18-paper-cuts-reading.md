@@ -10,7 +10,7 @@ tags:
 ---
 
 
-continuing to test webhook
+continuing to test
 
 ![ULISES CARD3.jpg]({{site.baseurl}}/assets/img/ULISES CARD3.jpg)
 
