@@ -2,7 +2,7 @@
 layout: post
 date: '2017-06-23 11:24 -0400'
 published: true
-title: 'Opening: No. 03 Migrations '
+title: 'Opening: No. 3 Migrations '
 categories: left
 tags:
   - migrations
