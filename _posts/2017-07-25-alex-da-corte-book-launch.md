@@ -10,7 +10,7 @@ categories: left
 
 Book launch and bar-B-que cookout with Alex Da Corte celebrating the release of "Slow Graffiti" and "50 Wigs," two recent publications of the artist's work. 
 
-Soak in the summer with food, refreshments, and readings by Alissa Bennett and Sam McKinniss as well as a rotating screening of Da Corte’s latest video work.
+Soak in the summer with food, refreshments, and readings by Alissa Bennett and Sam McKinniss as well as a rotating screening of Da Corte’s latest video work. [RSVP HERE](https://www.facebook.com/events/1423804564368704/?acontext=%7B%22ref%22%3A%2229%22%2C%22ref_notif_type%22%3A%22plan_user_invited%22%2C%22action_history%22%3A%22null%22%7D&notif_t=plan_user_invited&notif_id=1501032207943441)
 
 Alex Da Corte’s artist’s book "Slow Graffiti", made on the occasion of his show at Vienna Secession, comprises two volumes: a conversation between the artist and the Los Angeles based writer and critic Bruce Hainley, and Sorcery, a photographic comic strip by New York based curator and writer Bob Nickas.
 
