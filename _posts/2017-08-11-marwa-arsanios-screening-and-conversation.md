@@ -11,7 +11,9 @@ event_date: 'Saturday, August 19, 2017, 4–6PM'
 ![marwaarsanios3.jpg]({{site.baseurl}}/assets/img/marwaarsanios3.jpg)
 
 
-Migrations contributor, Marwa Arsanios, will appear via skype, for a conversation and screening of the artist's two recent video works, “Falling Is Not Collapsing, Falling Is Extending” and "Who is afraid of ideology." [RSVP](https://www.facebook.com/events/495482250792905/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A1129359703814263%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A1129359703814263%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D)
+Migrations contributor, Marwa Arsanios, will appear via skype, for a conversation and screening of the artist's two recent video works, “Falling Is Not Collapsing, Falling Is Extending” and "Who is afraid of ideology." 
+
+[RSVP](https://www.facebook.com/events/495482250792905/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A1129359703814263%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A1129359703814263%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D)
 
 - ["Who is afraid of ideology," 2017, Digital video, color,sound 22:20 min](https://walkerart.org/magazine/guerrilla-landscapes-marwa-arsanioss-who-is-afraid-of-ideology-part-i)
 - [“Falling Is Not Collapsing, Falling Is Extending,” 2016, Digital video, color, sound 22:34 min.](https://hammer.ucla.edu/exhibitions/2016/hammer-projects-marwa-arsanios/)
