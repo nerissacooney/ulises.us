@@ -4,7 +4,7 @@ layout: post
 published: false
 categories: left
 tags:
-  - sticky
+  - migrations
 title: post template
 ---
 **note that the first line of a post will appear center-aligned because the post expects it to be a date!**
