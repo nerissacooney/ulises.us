@@ -12,7 +12,7 @@ Book launch and barbecue cookout with [Alex Da Corte](http://alexdacorte.com/) c
 
 Soak in the summer with food, refreshments, and readings by Alissa Bennett and Sam McKinniss as well as a rotating screening of Da Corte’s latest video work. [RSVP HERE](https://www.facebook.com/events/1423804564368704/?acontext=%7B%22ref%22%3A%2229%22%2C%22ref_notif_type%22%3A%22plan_user_invited%22%2C%22action_history%22%3A%22null%22%7D&notif_t=plan_user_invited&notif_id=1501032207943441)
 
-Alex Da Corte’s artist’s book "Slow Graffiti," made on the occasion of his show at Vienna Secession, comprises two volumes: a conversation between the artist and the Los Angeles based writer and critic Bruce Hainley and Sorcery, a photographic comic strip by New York based curator and writer Bob Nickas.
+Alex Da Corte’s artist’s book "Slow Graffiti," made on the occasion of his show at Vienna Secession, comprises two volumes: a conversation between the artist and the Los Angeles-based writer and critic Bruce Hainley, and Sorcery, a photographic comic strip by New York-based curator and writer Bob Nickas.
 
 "50 Wigs" includes essays by art writer William Pym, curator Kim Nguyen (CCA Wattis), and artist Sam McKinniss, and is made in collaboration with Da Corte and The Andy Warhol Museum for his 2016 show at Herning Museum of Art.
 
