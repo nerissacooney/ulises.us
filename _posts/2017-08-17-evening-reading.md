@@ -10,7 +10,7 @@ event_date: 'Saturday, August 26, 2017, 7PM'
 ---
 ![the obvious earth cover]({{site.baseurl}}/assets/img/obv-earth-post.jpg)
 
-Book launch for *The Obvious Earth*, an essay collection from Carville Annex Press in San Francisco. Join us for an evening of smooth sounds/sentences with Caren Beilin, Tristan Dahn and Nabil Kashyap. Snacks are likely. Come!
+Book launch for *The Obvious Earth*, an essay collection from Carville Annex Press in San Francisco. Join us for an evening of sounds/sentences with Caren Beilin, Tristan Dahn and Nabil Kashyap. Snacks are likely. Come!
 
 [Caren Beilin](http://www.noemipress.org/catalog/fiction/beilin/) is the author of the novel *The University of Pennsylvania* (Noemi Press) and a forthcoming book of nonfiction, *SPAIN* (Rescue Press). Her fiction has appeared in *McSweeney’s*, *Fence*, *the Offing* and elsewhere. She lives in Philadelphia.
 
