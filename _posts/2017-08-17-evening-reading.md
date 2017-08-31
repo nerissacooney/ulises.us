@@ -2,13 +2,14 @@
 layout: post
 date: '2017-08-17'
 published: true
-title: 'Reading Evening'
+title: Reading Evening
 categories: left
 tags:
   - migrations
 event_date: 'Saturday, August 26, 2017, 7PM'
 ---
-![the obvious earth cover]({{site.baseurl}}/assets/img/obv-earth-post.jpg)
+![20988180_1468274746589422_4522942742685998601_o.jpg]({{site.baseurl}}/assets/img/20988180_1468274746589422_4522942742685998601_o.jpg)
+
 
 Book launch for *The Obvious Earth*, an essay collection from Carville Annex Press in San Francisco. Join us for an evening of sounds/sentences with Caren Beilin, Tristan Dahn and Nabil Kashyap. Snacks are likely. Come!
 
