@@ -5,7 +5,8 @@ published: true
 title: NY Art Book Fair
 categories: left
 ---
-![]({{site.baseurl}}/assets/img/splash_2017.jpeg)![splash_2017.jpeg]({{site.baseurl}}/assets/img/splash_2017.jpeg)
+![splash_2017.jpeg]({{site.baseurl}}/assets/img/splash_2017.jpeg)
+
 
 Next weekend Ulises will be at the [NYABF](http://nyartbookfair.com/about/) at MoMA PS1. 
 
