@@ -5,10 +5,9 @@ published: true
 title: NY Art Book Fair
 categories: left
 ---
-![splash_2017.jpeg]({{site.baseurl}}/assets/img/splash_2017.jpeg)
+![IMG_1744-730x470.jpg]({{site.baseurl}}/assets/img/IMG_1744-730x470.jpg)
 
-
-Next weekend Ulises will be at the [NYABF](http://nyartbookfair.com/about/) at MoMA PS1. 
+Next weekend Ulises will be at the [New York Art Book Fair](http://nyartbookfair.com/about/), organized by Printed Matter at MoMA PS1. 
 
 - Preview Thursday, September 21, 6-9 pm
 - Friday, September 22, 1-7pm
