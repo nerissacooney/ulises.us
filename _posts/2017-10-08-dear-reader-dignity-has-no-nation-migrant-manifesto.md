@@ -2,7 +2,7 @@
 layout: post
 date: '2017-10-08 17:30 -0400'
 published: true
-title: 'Dear Reader: <br> Dignity Has No Nation & Migrant Manifesto'
+title: 'Dear Reader: Dignity Has No Nation & Migrant Manifesto'
 categories: left
 event_date: 'Tuesday, October 10, 6–8PM'
 tags:
