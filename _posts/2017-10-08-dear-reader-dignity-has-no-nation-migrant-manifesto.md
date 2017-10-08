@@ -15,8 +15,8 @@ tags:
 Join Ulises for a group discussion facilitated by Nora Elmarzouky on two timely essays by artist Tania Bruguera: "Dignity Has No Nation" and "Migrant Manifesto." [RSVP HERE](https://www.facebook.com/events/130839584236830/?acontext=%7B%22ref%22%3A%2229%22%2C%22ref_notif_type%22%3A%22plan_user_invited%22%2C%22action_history%22%3A%22null%22%7D&notif_id=1507492993331242&notif_t=plan_user_invited)
 
 Please find the readings in the links below:
-https://drive.google.com/open?id=0B6ClfxGUdTp6YW5NTnplZkZxWGc
-https://drive.google.com/open?id=0B6ClfxGUdTp6STNEalJTcXRmVUk
+- https://drive.google.com/open?id=0B6ClfxGUdTp6YW5NTnplZkZxWGc
+- https://drive.google.com/open?id=0B6ClfxGUdTp6STNEalJTcXRmVUk
 
 Tania Bruguera, born in 1968 in Havana, is a politically motivated performance artist, explores the relationship between art, activism, and social change in works that examine the social effects of political and economic power. By creating proposals and aesthetic models for others to use and adapt, she defines herself as an initiator rather than an author, and often collaborates with multiple institutions as well as many individuals so that the full realization of her artwork occurs when others adopt and perpetuate it.
 
