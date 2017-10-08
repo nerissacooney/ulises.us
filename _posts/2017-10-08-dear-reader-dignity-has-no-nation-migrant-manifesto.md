@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2017-10-08 18:30 -0400'
+date: '2017-10-08 18:20 -0400'
 published: true
 title: 'Dear Reader: Dignity Has No Nation & Migrant Manifesto'
 categories: left
