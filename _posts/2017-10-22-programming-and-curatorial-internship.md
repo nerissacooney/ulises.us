@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2017-10-22 11:51 -0400'
-published: true
+published: false
 title: Programming and Curatorial Internship
 categories: left
 ---
