@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: NO.3 Education
 date: 'Dec 2017–Feb, 2018'
 categories: right
