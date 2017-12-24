@@ -1,11 +1,12 @@
 ---
 layout: post
+date: '2017-12-05 23:21 -0400'
 published: true
-title: NO.4 Education
-date: 'Dec 2017–Feb, 2018'
+title: No. 4 Education
 categories: right
 tags:
-  - '#education'
+  - education
+event_date: 'December 2017 through February 2018'
 ---
 
 
@@ -14,6 +15,9 @@ tags:
 ## Contributors
 
 ### Pablo Helguera
-###Caroline Woolard
-###Dushko Petrovich
-###Sepake Angiama
+
+### Caroline Woolard
+
+### Dushko Petrovich
+
+### Sepake Angiama
